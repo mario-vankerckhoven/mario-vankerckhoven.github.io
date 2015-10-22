@@ -6,22 +6,34 @@
     <description>Recent content in Stages on Gip Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Oct 2015 19:18:11 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2015 19:18:11 +0200</lastBuildDate>
     <atom:link href="http://mario-vankerckhoven.github.io/stage/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Testtaak Stage</title>
-      <link>http://mario-vankerckhoven.github.io/stage/Testtaak%20Stage/</link>
-      <pubDate>Tue, 13 Oct 2015 19:18:11 +0200</pubDate>
+      <title>Basisinfo stagebedrijf</title>
+      <link>http://mario-vankerckhoven.github.io/stage/Stagebedrijf%20Basisinfo/</link>
+      <pubDate>Thu, 22 Oct 2015 19:18:11 +0200</pubDate>
       
-      <guid>http://mario-vankerckhoven.github.io/stage/Testtaak%20Stage/</guid>
+      <guid>http://mario-vankerckhoven.github.io/stage/Stagebedrijf%20Basisinfo/</guid>
       <description>
 
-&lt;h4 id=&#34;random-testcode-markdown:1485c913c6901969dbf1bc27a398e5d8&#34;&gt;Random testcode markdown&lt;/h4&gt;
+&lt;h2 id=&#34;naam-bedrijf-gemeentehuis-zandhoven:10607194d91f824e58a8767f0bdb6919&#34;&gt;Naam bedrijf: Gemeentehuis Zandhoven&lt;/h2&gt;
+
+&lt;h3 id=&#34;locatie-van-het-stagebedrijf:10607194d91f824e58a8767f0bdb6919&#34;&gt;Locatie van het stagebedrijf&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;deel 1&lt;/li&gt;
-&lt;li&gt;deel 2&lt;/li&gt;
+&lt;li&gt;straat: Lierselei&lt;/li&gt;
+&lt;li&gt;nummer: 12&lt;/li&gt;
+&lt;li&gt;gemeente: Zandhoven&lt;/li&gt;
+&lt;li&gt;postcode: 2240&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;stagebegeleider:10607194d91f824e58a8767f0bdb6919&#34;&gt;Stagebegeleider&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;naam: De Meulder&lt;/li&gt;
+&lt;li&gt;voornaam: Herman&lt;/li&gt;
+&lt;li&gt;functie: ICT-Coördinator&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

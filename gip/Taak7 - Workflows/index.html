@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Task 7: Workflows ~ Hugo vs WordPress</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link href="//fonts.googleapis.com/css?family=PT+Serif" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="http://mario-vankerckhoven.github.io//css/application.css">
+    <link href="" rel="alternate" type="application/rss+xml" title="Gip Site" />
+  </head>
+
+<body id="single">
+  
+
+
+<header id="main-header">
+  
+    <img src="http://mario-vankerckhoven.github.io//images/profileGIP.jpg" class="animated profile-image" alt="Go home">
+  
+  <a href="http://www.immalle.be/immalle/">
+    <img src="http://mario-vankerckhoven.github.io//images/imma.jpg" class="animated profile-image" alt="Go home">
+  </a>
+  <a href="https://www.facebook.com/immaculatamalle?fref=ts">
+    <img src="http://mario-vankerckhoven.github.io//images/facebooklogo.jpg" class="animated profile-image" alt="Go home">
+  </a>
+
+  <nav class="horizontal-nav">
+    <ul class="horizontal-nav-list">
+      
+      
+      <li class="">
+        <a href="http://mario-vankerckhoven.github.io//gip">gip</a>
+      </li>
+      
+      <li class="">
+        <a href="http://mario-vankerckhoven.github.io//stage">stage</a>
+      </li>
+      
+      <li class="">
+        <a href="http://mario-vankerckhoven.github.io//welkom">welkom</a>
+      </li>
+      
+    </ul>
+  </nav>
+</header>
+
+
+
+
+  <section class="post-symbol blue">
+    <i class="symbol fa fa-wordpress"></i>
+    <p class="description"></p>
+  </section>
+
+  <div id="content-container">
+    <div class="post">
+      <h1>Task 7: Workflows ~ Hugo vs WordPress</h1>
+      <span class="post-date">Thu, Oct 22, 2015</span>
+      <p class="post-content">
+
+<h2 id="wat-moet-je-gebruiken-hugo-of-wordpress:3e0488955edd485a1808ffd381e68fc2">Wat moet je gebruiken ?  Hugo of Wordpress ?</h2>
+
+<p>Voor een beginner is Wordpress een echte aanrader maar vanaf dat je reeds kennis hebt met html/css code raad ik het leren gebruiken van Hugo aan, aangezien hugo over meer aanpassingsmogelijkheden beschikt. Je moet echter wel een periode inlassen om de Directory die Hugo Creëert te begrijpen. Bij een WordPress site is dit niet het geval aangezien er duidelijk word verwoord wat er gebeurt wanneer je iets aanpast. Als je eenmaal de Hugo structuur door hebt, heeft WordPress gebruiken eigenlijk weinig zin.</p>
+
+<p><br>
+<br></p>
+
+<h2 id="eigen-ervaring:3e0488955edd485a1808ffd381e68fc2">Eigen ervaring</h2>
+
+<h3 id="hugo:3e0488955edd485a1808ffd381e68fc2">Hugo</h3>
+
+<p>Persoonlijk vind ik Hugo een redelijk lastige tool om te gebruiken aangezien er weinig tot geen documentatie te vinden is.
+De Documentatie die er wel is, is niet gebruiksvriendelijk vanaf je de nieuwe site hebt aangemaakt en lijkt gemaakt te zijn voor professionele gebruikers van Hugo.
+Echter vind ik wel dat Hugo een handige tool is in gebruik vanaf je de basishandelingen kunt gebruiken zoals Hugo Server, Hugo baseUrl, etc .
+Na de opdracht om met Hugo een website/blog te maken, vind ik dat je Hugo wel beter begrijpt qua mappenstructuur en verwijzingen.</p>
+
+<p><br></p>
+
+<h3 id="wordpress:3e0488955edd485a1808ffd381e68fc2">WordPress</h3>
+
+<p>Persoonlijk vind ik WordPress een superhandige tool voor een beginner of iemand die nog nooit iets met webhosting/html&amp;CSS heeft gedaan.
+Ook vind ik het wel handig dat je bij het kiezen van een startthema al direct een teaser te zien krijgt van hoe je website na 2 klikjes er al uit ziet.
+Alles op de WordPress site is makkelijk aan te passen aangezien het menu duidelijk verwoord wat elke aanpassing doet.
+Het publiceren van een WordPress blog is ook zeer makkelijk, er is letterlijk een knopje &ldquo;Opslaan &amp; publiceren&rdquo;.
+Een ander voordeel daarentegen is ook dat de bezoekers van de site makkelijk een comment kunnen achterlaten.</p>
+
+<p><br>
+<br></p>
+
+<h2 id="directory-structuur-hugo:3e0488955edd485a1808ffd381e68fc2">Directory structuur Hugo</h2>
+
+<ul>
+<li>archetypes: Hier bevind zich het default.md bestand, lijkt onbelangrijk buiten het feit dat er in staat dat de taal GO word gebruikt</li>
+<li>content: Alle eventuele post worden hierin aangemaakt, een subdirectory aanmaken is mogelijk om bepaalde posts te kunnen groeperen</li>
+<li>layouts:
+
+<ul>
+<li>default: De html code in deze bestanden bestaat uit verwijzingen naar de html bestanden in de subdirectory &lsquo;partials&rsquo;. Ook word hier bepaalt hoe je posts standaard op het scherm verschijnen alvoor ze individueel geopent worden</li>
+<li>partials: De basisopmaak-bestanden bevinden zich hier: header.html , head.html en footer.html. Eventuele aanpassingen die invloed hebben op al je headers/heads/footers doe je hier</li>
+</ul></li>
+
+<li><p>static:</p>
+
+<ul>
+<li>css: Hierin worden de kleuren, groottes en alle andere dingen in verband met opmaak gedefinieerd</li>
+<li>fonts: Het lettertype dat een bepaald iets op je website gebruikt word vanaf hier geladen. Nagelang je font krijg je er ook leuke extra&rsquo;s bij zoals icoontjes</li>
+<li>images: Hierin worden alle eventuele images geplaatst die je op je website wilt gebruiken. tenzij je images laad via URL&rsquo;s</li>
+</ul></li>
+
+<li><p>config.toml: De basis van alles wat hugo doet staat hier (defaultwaarden worden wel verborgen).</p></li>
+
+<li><p>public:Elke keer je een nieuwe website bouwt met hugo server &ndash;flag1 &ndash;flag2 , word hier de volledig gegenereerde website geplaatst</p></li>
+</ul>
+</p>
+    </div>
+
+    
+  </div>
+</body>
+</html>

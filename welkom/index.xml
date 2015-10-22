@@ -38,5 +38,19 @@
 </description>
     </item>
     
+    <item>
+      <title>Publicatie</title>
+      <link>http://mario-vankerckhoven.github.io/welkom/Publicatie/</link>
+      <pubDate>Sat, 10 Oct 2015 19:18:11 +0200</pubDate>
+      
+      <guid>http://mario-vankerckhoven.github.io/welkom/Publicatie/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;gitlab (entire directory):&lt;a href=&#34;https://gitlab.com/mario-vankerckhoven/Definitieve_GipSite/tree/master&#34;&gt;https://gitlab.com/mario-vankerckhoven/Definitieve_GipSite/tree/master&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;github (subdirectory public) : &lt;a href=&#34;https://github.com/mario-vankerckhoven/mario-vankerckhoven.github.io&#34;&gt;https://github.com/mario-vankerckhoven/mario-vankerckhoven.github.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;website: &lt;a href=&#34;http://mario-vankerckhoven.github.io//welkom/Welkomstwoord/&#34;&gt;http://mario-vankerckhoven.github.io//welkom/Welkomstwoord/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
