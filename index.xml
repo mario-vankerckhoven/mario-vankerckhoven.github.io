@@ -2,19 +2,74 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gip Site</title>
-    <link>http://mario-vankerckhoven.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Gip Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2015 19:18:11 +0200</lastBuildDate>
-    <atom:link href="http://mario-vankerckhoven.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Nov 2015 15:14:32 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Taak 19: Welkomstwoord</title>
+      <link>http://localhost:1313/gip/Taak19%20-%20Welkomstwoord/</link>
+      <pubDate>Thu, 19 Nov 2015 15:14:32 +0200</pubDate>
+      
+      <guid>http://localhost:1313/gip/Taak19%20-%20Welkomstwoord/</guid>
+      <description>
+
+&lt;h2 id=&#34;welkom-op-de-website-van-mario-van-kerckhoven:901bf4849c5eb210c540d25e947f8a08&#34;&gt;Welkom op de website van Mario Van Kerckhoven.&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;over-mezelf:901bf4849c5eb210c540d25e947f8a08&#34;&gt;over mezelf:&lt;/h2&gt;
+
+&lt;p&gt;Ik ben 17-jarige jongen uit Zandhoven.
+Ik ga naar de school Immaculata instituut gesitueerd in Oostmalle.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;een-kort-stukje-uitleg-over-hoe-de-website-werkt:901bf4849c5eb210c540d25e947f8a08&#34;&gt;Een kort stukje uitleg over hoe de website werkt.&lt;/h2&gt;
+
+&lt;h3 id=&#34;de-icoontjes-in-de-linkerbovenhoek:901bf4849c5eb210c540d25e947f8a08&#34;&gt;De icoontjes in de linkerbovenhoek:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Immalle: Hier vind je een rechtstreekse link naar de website van de school.&lt;/li&gt;
+&lt;li&gt;Facebook: Klik hier een keertje op als je de school nog geen like hebt gegeven op Facebook.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;de-icoontjes-in-de-rechterbovenhoek:901bf4849c5eb210c540d25e947f8a08&#34;&gt;De icoontjes in de rechterbovenhoek:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Welkom: Op deze plaats zullen alle mededelingen worden geplaatst.&lt;/li&gt;
+&lt;li&gt;Stage: Via deze knop kan je makkelijk een lijst opvragen van alle taken in verband met de stage.&lt;/li&gt;
+&lt;li&gt;Gip: Via deze knop kan je snel alle taken in verband met de GIP opvragen.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;hoe-ik-mezelf-als-persoon-zie-in-de-toekomst:901bf4849c5eb210c540d25e947f8a08&#34;&gt;Hoe ik mezelf als persoon zie in de toekomst?&lt;/h2&gt;
+
+&lt;p&gt;Waarschijnlijk volgt er op dit laatste jaar van het secundair onderwijs een poging tot hogeschool.
+Er is een grote kans dat de betreffende school zich in Antwerpen bevindt aangezien de richting Toegepaste Informatica er wordt aangeboden.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;Ik hoop dat U makkelijk de weg vindt naar de taken die U zal beoordelen.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Veel leesplezier!&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Basisinfo stagebedrijf</title>
-      <link>http://mario-vankerckhoven.github.io/stage/Stagebedrijf%20Basisinfo/</link>
+      <link>http://localhost:1313/stage/Stagebedrijf%20Basisinfo/</link>
       <pubDate>Thu, 22 Oct 2015 19:18:11 +0200</pubDate>
       
-      <guid>http://mario-vankerckhoven.github.io/stage/Stagebedrijf%20Basisinfo/</guid>
+      <guid>http://localhost:1313/stage/Stagebedrijf%20Basisinfo/</guid>
       <description>
 
 &lt;h2 id=&#34;naam-bedrijf-gemeentehuis-zandhoven:10607194d91f824e58a8767f0bdb6919&#34;&gt;Naam bedrijf: Gemeentehuis Zandhoven&lt;/h2&gt;
@@ -39,16 +94,18 @@
     </item>
     
     <item>
-      <title>Task 7: Workflows ~ Hugo vs WordPress</title>
-      <link>http://mario-vankerckhoven.github.io/gip/Taak7%20-%20Workflows/</link>
+      <title>Taak 7: Workflows ~ Hugo vs WordPress</title>
+      <link>http://localhost:1313/gip/Taak7%20-%20Workflows/</link>
       <pubDate>Thu, 22 Oct 2015 18:14:32 +0200</pubDate>
       
-      <guid>http://mario-vankerckhoven.github.io/gip/Taak7%20-%20Workflows/</guid>
+      <guid>http://localhost:1313/gip/Taak7%20-%20Workflows/</guid>
       <description>
 
 &lt;h2 id=&#34;wat-moet-je-gebruiken-hugo-of-wordpress:3e0488955edd485a1808ffd381e68fc2&#34;&gt;Wat moet je gebruiken ?  Hugo of Wordpress ?&lt;/h2&gt;
 
-&lt;p&gt;Voor een beginner is Wordpress een echte aanrader maar vanaf dat je reeds kennis hebt met html/css code raad ik het leren gebruiken van Hugo aan, aangezien hugo over meer aanpassingsmogelijkheden beschikt. Je moet echter wel een periode inlassen om de Directory die Hugo Creëert te begrijpen. Bij een WordPress site is dit niet het geval aangezien er duidelijk word verwoord wat er gebeurt wanneer je iets aanpast. Als je eenmaal de Hugo structuur door hebt, heeft WordPress gebruiken eigenlijk weinig zin.&lt;/p&gt;
+&lt;p&gt;Voor een beginner is Wordpress een echte aanrader maar vanaf dat je reeds kennis hebt met &lt;strong&gt;html/css code&lt;/strong&gt; raad ik het leren gebruiken van Hugo aan, aangezien hugo over meer aanpassingsmogelijkheden beschikt. Je moet echter wel een periode inlassen om de Directory die Hugo Creëert te begrijpen. Bij een WordPress site is dit niet het geval aangezien er duidelijk word verwoord wat er gebeurt wanneer je iets aanpast. Als je eenmaal de &lt;strong&gt;Hugo structuur&lt;/strong&gt; door hebt, heeft WordPress gebruiken eigenlijk weinig zin.&lt;/p&gt;
+
+&lt;hr /&gt;
 
 &lt;p&gt;&lt;br&gt;
 &lt;br&gt;&lt;/p&gt;
@@ -57,20 +114,29 @@
 
 &lt;h3 id=&#34;hugo:3e0488955edd485a1808ffd381e68fc2&#34;&gt;Hugo&lt;/h3&gt;
 
-&lt;p&gt;Persoonlijk vind ik Hugo een redelijk lastige tool om te gebruiken aangezien er weinig tot geen documentatie te vinden is.
+&lt;p&gt;Persoonlijk vind ik &lt;code&gt;Hugo&lt;/code&gt; een redelijk lastige tool om te gebruiken aangezien er weinig tot geen documentatie te vinden is.
 De Documentatie die er wel is, is niet gebruiksvriendelijk vanaf je de nieuwe site hebt aangemaakt en lijkt gemaakt te zijn voor professionele gebruikers van Hugo.
-Echter vind ik wel dat Hugo een handige tool is in gebruik vanaf je de basishandelingen kunt gebruiken zoals Hugo Server, Hugo baseUrl, etc .
-Na de opdracht om met Hugo een website/blog te maken, vind ik dat je Hugo wel beter begrijpt qua mappenstructuur en verwijzingen.&lt;/p&gt;
+Echter vind ik wel dat Hugo een handige tool is in gebruik vanaf je de basishandelingen kunt gebruiken zoals:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Hugo Server&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Hugo baseUrl&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Hugo ...&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Na de opdracht om met &lt;code&gt;Hugo&lt;/code&gt; een website/blog te maken, vind ik dat je Hugo wel beter begrijpt qua mappenstructuur en verwijzingen.&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;wordpress:3e0488955edd485a1808ffd381e68fc2&#34;&gt;WordPress&lt;/h3&gt;
 
-&lt;p&gt;Persoonlijk vind ik WordPress een superhandige tool voor een beginner of iemand die nog nooit iets met webhosting/html&amp;amp;CSS heeft gedaan.
+&lt;p&gt;Persoonlijk vind ik WordPress een superhandige tool voor een beginner of iemand die nog nooit iets met &lt;strong&gt;webhosting/html&amp;amp;CSS&lt;/strong&gt; heeft gedaan.
 Ook vind ik het wel handig dat je bij het kiezen van een startthema al direct een teaser te zien krijgt van hoe je website na 2 klikjes er al uit ziet.
 Alles op de WordPress site is makkelijk aan te passen aangezien het menu duidelijk verwoord wat elke aanpassing doet.
-Het publiceren van een WordPress blog is ook zeer makkelijk, er is letterlijk een knopje &amp;ldquo;Opslaan &amp;amp; publiceren&amp;rdquo;.
+Het publiceren van een WordPress blog is ook zeer makkelijk, er is letterlijk een knopje &lt;strong&gt;&amp;ldquo;Opslaan &amp;amp; publiceren&amp;rdquo;&lt;/strong&gt;.
 Een ander voordeel daarentegen is ook dat de bezoekers van de site makkelijk een comment kunnen achterlaten.&lt;/p&gt;
+
+&lt;hr /&gt;
 
 &lt;p&gt;&lt;br&gt;
 &lt;br&gt;&lt;/p&gt;
@@ -78,36 +144,85 @@ Een ander voordeel daarentegen is ook dat de bezoekers van de site makkelijk een
 &lt;h2 id=&#34;directory-structuur-hugo:3e0488955edd485a1808ffd381e68fc2&#34;&gt;Directory structuur Hugo&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;archetypes: Hier bevind zich het default.md bestand, lijkt onbelangrijk buiten het feit dat er in staat dat de taal GO word gebruikt&lt;/li&gt;
-&lt;li&gt;content: Alle eventuele post worden hierin aangemaakt, een subdirectory aanmaken is mogelijk om bepaalde posts te kunnen groeperen&lt;/li&gt;
-&lt;li&gt;layouts:
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;code&gt;archetypes&lt;/code&gt;&lt;/strong&gt;:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;default: De html code in deze bestanden bestaat uit verwijzingen naar de html bestanden in de subdirectory &amp;lsquo;partials&amp;rsquo;. Ook word hier bepaalt hoe je posts standaard op het scherm verschijnen alvoor ze individueel geopent worden&lt;/li&gt;
-&lt;li&gt;partials: De basisopmaak-bestanden bevinden zich hier: header.html , head.html en footer.html. Eventuele aanpassingen die invloed hebben op al je headers/heads/footers doe je hier&lt;/li&gt;
+&lt;li&gt;Hier bevind zich het default.md bestand, lijkt onbelangrijk buiten het feit dat er in staat dat de taal GO word gebruikt&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;static:&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;code&gt;content&lt;/code&gt;&lt;/strong&gt;:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;css: Hierin worden de kleuren, groottes en alle andere dingen in verband met opmaak gedefinieerd&lt;/li&gt;
-&lt;li&gt;fonts: Het lettertype dat een bepaald iets op je website gebruikt word vanaf hier geladen. Nagelang je font krijg je er ook leuke extra&amp;rsquo;s bij zoals icoontjes&lt;/li&gt;
-&lt;li&gt;images: Hierin worden alle eventuele images geplaatst die je op je website wilt gebruiken. tenzij je images laad via URL&amp;rsquo;s&lt;/li&gt;
+&lt;li&gt;Alle eventuele post worden hierin aangemaakt, een subdirectory aanmaken is mogelijk om bepaalde posts te kunnen groeperen&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;config.toml: De basis van alles wat hugo doet staat hier (defaultwaarden worden wel verborgen).&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;code&gt;layouts&lt;/code&gt;&lt;/strong&gt;:&lt;/p&gt;
 
-&lt;li&gt;&lt;p&gt;public:Elke keer je een nieuwe website bouwt met hugo server &amp;ndash;flag1 &amp;ndash;flag2 , word hier de volledig gegenereerde website geplaatst&lt;/p&gt;&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;code&gt;default&lt;/code&gt;&lt;/strong&gt;: De html code in deze bestanden bestaat uit verwijzingen naar de html bestanden in de subdirectory &amp;lsquo;partials&amp;rsquo;. Ook word hier bepaalt hoe je posts standaard op het scherm verschijnen alvoor ze individueel geopent worden&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;code&gt;partials&lt;/code&gt;&lt;/strong&gt;: De basisopmaak-bestanden bevinden zich hier: header.html , head.html en footer.html. Eventuele aanpassingen die invloed hebben op al je headers/heads/footers doe je hier&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;code&gt;static&lt;/code&gt;&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;code&gt;css&lt;/code&gt;&lt;/strong&gt;: Hierin worden de kleuren, groottes en alle andere dingen in verband met opmaak gedefinieerd&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;code&gt;fonts&lt;/code&gt;&lt;/strong&gt;: Het lettertype dat een bepaald iets op je website gebruikt word vanaf hier geladen. Nagelang je font krijg je er ook leuke extra&amp;rsquo;s bij zoals icoontjes&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;code&gt;images&lt;/code&gt;&lt;/strong&gt;: Hierin worden alle eventuele images geplaatst die je op je website wilt gebruiken. tenzij je images laad via URL&amp;rsquo;s&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;code&gt;config.toml&lt;/code&gt;&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;De basis van alles wat hugo doet staat hier (defaultwaarden worden wel verborgen).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;code&gt;public&lt;/code&gt;&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Elke keer je een nieuwe website bouwt met &lt;strong&gt;&lt;code&gt;hugo server --flag1 --flag2&lt;/code&gt; &lt;/strong&gt;, word hier de volledig gegenereerde website geplaatst&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>Tâche 4: FAQ ~ Youtube</title>
-      <link>http://mario-vankerckhoven.github.io/gip/Taak4-FAQ/</link>
+      <title>Task 5: Autobiography</title>
+      <link>http://localhost:1313/gip/Taak5-Autobiography/</link>
       <pubDate>Tue, 20 Oct 2015 15:14:32 +0200</pubDate>
       
-      <guid>http://mario-vankerckhoven.github.io/gip/Taak4-FAQ/</guid>
+      <guid>http://localhost:1313/gip/Taak5-Autobiography/</guid>
+      <description>
+
+&lt;h3 id=&#34;autobiography-gip-task-05:344c64788bb5fb907d7294b8bb012b72&#34;&gt;Autobiography : GIP TASK 05&lt;/h3&gt;
+
+&lt;p&gt;&lt;br&gt;
+My name is Mario Van Kerckhoven, some people refer to me as : “ the spiritmaster of Aftermath”, since im the only spiritmaster in the clan Aftermath . I am 16 years old and live in Zandhoven, Belgium. I am still going to the school which is called ‘Immacullata’. It is situated in Oostmalle.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+My first expierence with IT obviously was gaming, I think i was 5 or 6 years old when my parents bought me a playstation 2, which was awesome back in the days. When i started to buy my first games, I mean my parents, i tought the characters looked a lot like real people and i tried things in real life that i saw in one of the games i had been playing. I also played on the PC since some of my friends told me to visit websites like Speeleiland.be and funnygames.be .&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+At the moment IT means for me going to school and follow lessons like software and system management. That also causes that when I am at home, I am sometimes doing IT related things like changing the name of the router. Each week im on the computer for an average of 4-6 hours a day, school included. My IT-related achievements at the moment are: finding a job ( Sita helpdesk support Beerse), I am the number 1 gamer on a minecraft server and I passed 1 year of IT-management on Immacullata. The fascinating part of the IT-related stuff is that u are always puzzling to change nothing in something. As u are following IT-related website/pages on the internet u can clearly see how the  world in changing because of IT-related things like the internet and games. I wouldn’t see myself in an expert yet, but each day i learn more and without noticing I am sure i will become an expert.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+When I look to the future I see myself working as a guy from the IT department and maybe a website builder as secondary occupation to make some more money. This could become my major activity as I notice a lot of enterprises ask for a website. At the moment i am already testing if that is somehow possible by a task for school. We have to make a business plan for business management. So i deceided to make it about making websites for people.
+one of my aspirations is to one day make some sort of social network that is even better then Facebook and Twitter.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+I personally think my PC and I are connected because all important data I have is on my computer or in the cloud so I can acces it from my smartphone. IT has quiet an important impact on my life and as I am following IT management I think that impact can only grow bigger and bigger.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/xSprfRA.png&#34; alt=&#34;Doing IT things&#34; /&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tâche 4: FAQ ~ Youtube</title>
+      <link>http://localhost:1313/gip/Taak4-FAQ/</link>
+      <pubDate>Tue, 20 Oct 2015 15:14:32 +0200</pubDate>
+      
+      <guid>http://localhost:1313/gip/Taak4-FAQ/</guid>
       <description>
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -162,42 +277,11 @@ Mettez à jour votre navigateur&lt;/p&gt;
     </item>
     
     <item>
-      <title>Task 5: Autobiography</title>
-      <link>http://mario-vankerckhoven.github.io/gip/Taak5-Autobiography/</link>
-      <pubDate>Tue, 20 Oct 2015 15:14:32 +0200</pubDate>
-      
-      <guid>http://mario-vankerckhoven.github.io/gip/Taak5-Autobiography/</guid>
-      <description>
-
-&lt;h3 id=&#34;autobiography-gip-task-05:344c64788bb5fb907d7294b8bb012b72&#34;&gt;Autobiography : GIP TASK 05&lt;/h3&gt;
-
-&lt;p&gt;&lt;br&gt;
-My name is Mario Van Kerckhoven, some people refer to me as : “ the spiritmaster of Aftermath”, since im the only spiritmaster in the clan Aftermath . I am 16 years old and live in Zandhoven, Belgium. I am still going to the school which is called ‘Immacullata’. It is situated in Oostmalle.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
-My first expierence with IT obviously was gaming, I think i was 5 or 6 years old when my parents bought me a playstation 2, which was awesome back in the days. When i started to buy my first games, I mean my parents, i tought the characters looked a lot like real people and i tried things in real life that i saw in one of the games i had been playing. I also played on the PC since some of my friends told me to visit websites like Speeleiland.be and funnygames.be .&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
-At the moment IT means for me going to school and follow lessons like software and system management. That also causes that when I am at home, I am sometimes doing IT related things like changing the name of the router. Each week im on the computer for an average of 4-6 hours a day, school included. My IT-related achievements at the moment are: finding a job ( Sita helpdesk support Beerse), I am the number 1 gamer on a minecraft server and I passed 1 year of IT-management on Immacullata. The fascinating part of the IT-related stuff is that u are always puzzling to change nothing in something. As u are following IT-related website/pages on the internet u can clearly see how the  world in changing because of IT-related things like the internet and games. I wouldn’t see myself in an expert yet, but each day i learn more and without noticing I am sure i will become an expert.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
-When I look to the future I see myself working as a guy from the IT department and maybe a website builder as secondary occupation to make some more money. This could become my major activity as I notice a lot of enterprises ask for a website. At the moment i am already testing if that is somehow possible by a task for school. We have to make a business plan for business management. So i deceided to make it about making websites for people.
-one of my aspirations is to one day make some sort of social network that is even better then Facebook and Twitter.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
-I personally think my PC and I are connected because all important data I have is on my computer or in the cloud so I can acces it from my smartphone. IT has quiet an important impact on my life and as I am following IT management I think that impact can only grow bigger and bigger.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/xSprfRA.png&#34; alt=&#34;Doing IT things&#34; /&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Taak 1: IT-tapa: Youtube</title>
-      <link>http://mario-vankerckhoven.github.io/gip/Taak1-%20IT-tapa/</link>
+      <link>http://localhost:1313/gip/Taak1-%20IT-tapa/</link>
       <pubDate>Tue, 20 Oct 2015 00:14:32 +0200</pubDate>
       
-      <guid>http://mario-vankerckhoven.github.io/gip/Taak1-%20IT-tapa/</guid>
+      <guid>http://localhost:1313/gip/Taak1-%20IT-tapa/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;in afwachting tot publieke versie&lt;/li&gt;
 &lt;/ul&gt;
@@ -206,10 +290,10 @@ I personally think my PC and I are connected because all important data I have i
     
     <item>
       <title>Welkom op de GIP/Stage site van Mario Van Kerckhoven</title>
-      <link>http://mario-vankerckhoven.github.io/welkom/Welkomstwoord/</link>
+      <link>http://localhost:1313/welkom/Welkomstwoord/</link>
       <pubDate>Sun, 11 Oct 2015 19:04:38 +0200</pubDate>
       
-      <guid>http://mario-vankerckhoven.github.io/welkom/Welkomstwoord/</guid>
+      <guid>http://localhost:1313/welkom/Welkomstwoord/</guid>
       <description>
 
 &lt;h2 id=&#34;een-kort-stukje-uitleg:1dda72a6a3583e1c24e1b4ab2830d714&#34;&gt;Een kort stukje uitleg&lt;/h2&gt;
@@ -235,10 +319,10 @@ I personally think my PC and I are connected because all important data I have i
     
     <item>
       <title>Publicatie</title>
-      <link>http://mario-vankerckhoven.github.io/welkom/Publicatie/</link>
+      <link>http://localhost:1313/welkom/Publicatie/</link>
       <pubDate>Sat, 10 Oct 2015 19:18:11 +0200</pubDate>
       
-      <guid>http://mario-vankerckhoven.github.io/welkom/Publicatie/</guid>
+      <guid>http://localhost:1313/welkom/Publicatie/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;gitlab (entire directory):&lt;a href=&#34;https://gitlab.com/mario-vankerckhoven/Definitieve_GipSite/tree/master&#34;&gt;https://gitlab.com/mario-vankerckhoven/Definitieve_GipSite/tree/master&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;github (subdirectory public) : &lt;a href=&#34;https://github.com/mario-vankerckhoven/mario-vankerckhoven.github.io&#34;&gt;https://github.com/mario-vankerckhoven/mario-vankerckhoven.github.io&lt;/a&gt;&lt;/li&gt;
