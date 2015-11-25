@@ -2,49 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welkoms on Gip Site</title>
-    <link>http://localhost:1313/welkom/</link>
+    <link>http://mario-vankerckhoven.github.io/welkom/</link>
     <description>Recent content in Welkoms on Gip Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Oct 2015 19:04:38 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/welkom/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://mario-vankerckhoven.github.io/welkom/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Welkom op de GIP/Stage site van Mario Van Kerckhoven</title>
-      <link>http://localhost:1313/welkom/Welkomstwoord/</link>
+      <link>http://mario-vankerckhoven.github.io/welkom/Welkomstwoord/</link>
       <pubDate>Sun, 11 Oct 2015 19:04:38 +0200</pubDate>
       
-      <guid>http://localhost:1313/welkom/Welkomstwoord/</guid>
+      <guid>http://mario-vankerckhoven.github.io/welkom/Welkomstwoord/</guid>
       <description>
 
-&lt;h2 id=&#34;een-kort-stukje-uitleg:1dda72a6a3583e1c24e1b4ab2830d714&#34;&gt;Een kort stukje uitleg&lt;/h2&gt;
+&lt;h2 id=&#34;welkom-op-de-website-van-mario-van-kerckhoven:1dda72a6a3583e1c24e1b4ab2830d714&#34;&gt;Welkom op de website van Mario Van Kerckhoven.&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;over-mezelf:1dda72a6a3583e1c24e1b4ab2830d714&#34;&gt;over mezelf:&lt;/h2&gt;
+
+&lt;p&gt;Ik ben 17-jarige jongen uit Zandhoven.
+Ik ga naar de school Immaculata instituut gesitueerd in Oostmalle.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;een-kort-stukje-uitleg-over-hoe-de-website-werkt:1dda72a6a3583e1c24e1b4ab2830d714&#34;&gt;Een kort stukje uitleg over hoe de website werkt.&lt;/h2&gt;
 
 &lt;h3 id=&#34;de-icoontjes-in-de-linkerbovenhoek:1dda72a6a3583e1c24e1b4ab2830d714&#34;&gt;De icoontjes in de linkerbovenhoek:&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Immalle: Rechtstreekse link naar de website van de school&lt;/li&gt;
-&lt;li&gt;Facebook: Laat een like achter voor de school&lt;/li&gt;
+&lt;li&gt;Immalle: Hier vind je een rechtstreekse link naar de website van de school.&lt;/li&gt;
+&lt;li&gt;Facebook: Klik hier een keertje op als je de school nog geen like hebt gegeven op Facebook.&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;de-icoontjes-in-de-rechterbovenhoek:1dda72a6a3583e1c24e1b4ab2830d714&#34;&gt;De icoontjes in de rechterbovenhoek:&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Welkom: Algemene meldingen / korte uitleg hoe de website werkt&lt;/li&gt;
-&lt;li&gt;Stage: Hier worden alle stage opdrachten gepubliceerd&lt;/li&gt;
-&lt;li&gt;Gip: Hier worden alle opdracht in verband met de GIP gepubliceerd&lt;/li&gt;
+&lt;li&gt;Welkom: Op deze plaats zullen alle mededelingen worden geplaatst.&lt;/li&gt;
+&lt;li&gt;Stage: Via deze knop kan je makkelijk een lijst opvragen van alle taken in verband met de stage.&lt;/li&gt;
+&lt;li&gt;Gip: Via deze knop kan je snel alle taken in verband met de GIP opvragen.&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Publicatie</title>
-      <link>http://localhost:1313/welkom/Publicatie/</link>
-      <pubDate>Sat, 10 Oct 2015 19:18:11 +0200</pubDate>
-      
-      <guid>http://localhost:1313/welkom/Publicatie/</guid>
-      <description>&lt;ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;hoe-ik-mezelf-als-persoon-zie-in-de-toekomst:1dda72a6a3583e1c24e1b4ab2830d714&#34;&gt;Hoe ik mezelf als persoon zie in de toekomst?&lt;/h2&gt;
+
+&lt;p&gt;Waarschijnlijk volgt er op dit laatste jaar van het secundair onderwijs een poging tot hogeschool.
+Er is een grote kans dat de betreffende school zich in Antwerpen bevindt aangezien de richting Toegepaste Informatica er wordt aangeboden.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;Ik hoop dat U makkelijk de weg vindt naar de taken die U zal beoordelen.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Veel leesplezier!&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;ul&gt;
 &lt;li&gt;gitlab (entire directory):&lt;a href=&#34;https://gitlab.com/mario-vankerckhoven/Definitieve_GipSite/tree/master&#34;&gt;https://gitlab.com/mario-vankerckhoven/Definitieve_GipSite/tree/master&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;github (subdirectory public) : &lt;a href=&#34;https://github.com/mario-vankerckhoven/mario-vankerckhoven.github.io&#34;&gt;https://github.com/mario-vankerckhoven/mario-vankerckhoven.github.io&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;website: &lt;a href=&#34;http://mario-vankerckhoven.github.io//welkom/Welkomstwoord/&#34;&gt;http://mario-vankerckhoven.github.io//welkom/Welkomstwoord/&lt;/a&gt;&lt;/li&gt;
