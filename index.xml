@@ -6,8 +6,54 @@
     <description>Recent content on Gip Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Jan 2016 13:24:39 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 19 Jan 2016 18:18:39 +0200</lastBuildDate>
     <atom:link href="http://mario-vankerckhoven.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Stageverslag van 19 januari</title>
+      <link>http://mario-vankerckhoven.github.io/stage/Stageverslag%2019Januari/</link>
+      <pubDate>Tue, 19 Jan 2016 18:18:39 +0200</pubDate>
+      
+      <guid>http://mario-vankerckhoven.github.io/stage/Stageverslag%2019Januari/</guid>
+      <description>&lt;p&gt;Vandaag werd er heel veel tijd besteed aan het in kaart brengen van het netwerk van de gemeente. ( enkel op het gemeentehuis)&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+Er werd aandacht besteed aan het onprofessionele gedrag en werkwijze van Belgacom.
+Dit wijst op de wijze waarop de patching gebeurt is, geen onderscheid tussen telefoon/netwerk/printer/bancontact.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+Ook werd er uitgebreid onderzocht waar de netwerkaansluiting terug te vinden waren, slechts een tiental niet gevonden, die waarschijnlijk voor anti-inbraak en rookmelders zijn gebruikt in het plafond.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+later op deze leerrijke dag, werd er gewerkt aan updates voor het stock-programma.
+Ook werd er gezocht naar alternatieven voor Access en andere toepassing in MS office.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stageverslag van 18 januari</title>
+      <link>http://mario-vankerckhoven.github.io/stage/Stageverslag%2018Januari/</link>
+      <pubDate>Mon, 18 Jan 2016 18:15:39 +0200</pubDate>
+      
+      <guid>http://mario-vankerckhoven.github.io/stage/Stageverslag%2018Januari/</guid>
+      <description>&lt;p&gt;Deze dag stond grotendeels in het teken van de nieuwe bali en enkele pc&amp;rsquo;s, bankcontacten, telefoons en ID-card readers aansluiten op het netwerk.
+Naast het aansluiten hiervan moesten er ook een deel netwerkkabels gepatcht worden.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+Er werd een uitgebreide kennismaking gergeld met een windows 2008 server Core installatie.
+Waarop het gebruik van powershell niet mogelijk is ( Enige windows server die dit blijkbaar niet heeft.)&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+&amp;ndash;&amp;gt;  gebruik van OCSETUP om dhcp en IIS webserver te creëren.
+Naast de Core installatie is er ook een 2008 met GUI geïnstalleerd, om het verschil in ingenomen schijfruimte duidelijk te maken
+- GUI: 5,6Gb
+- Core: 1,8Gb&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+In de nammidag werd er tijd besteed aan het opzetten van een DHCP server met GUI.
+Ook werd de IIS structuur verduidelijkt met de GUI ervoor, er werd veel aandacht besteed aan het beveiligen van de webserver.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Stageverslag van 15 januari</title>
@@ -449,77 +495,6 @@ Enkele besproken elementen waren:&lt;/p&gt;
 
 &lt;br&gt;
  &lt;a href=&#34;https://www.youtube.com/watch?v=khHGXvcWmyw&#34;&gt;Instructiefilmpje&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Welkom op de GIP/Stage site van Mario Van Kerckhoven</title>
-      <link>http://mario-vankerckhoven.github.io/welkom/Welkomstwoord/</link>
-      <pubDate>Sun, 11 Oct 2015 19:04:38 +0200</pubDate>
-      
-      <guid>http://mario-vankerckhoven.github.io/welkom/Welkomstwoord/</guid>
-      <description>
-
-&lt;h2 id=&#34;welkom-op-de-website-van-mario-van-kerckhoven:1dda72a6a3583e1c24e1b4ab2830d714&#34;&gt;Welkom op de website van Mario Van Kerckhoven.&lt;/h2&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;over-mezelf:1dda72a6a3583e1c24e1b4ab2830d714&#34;&gt;over mezelf:&lt;/h2&gt;
-
-&lt;p&gt;Ik ben 17-jarige jongen uit Zandhoven.
-Ik ga naar de school Immaculata instituut gesitueerd in Oostmalle.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;een-kort-stukje-uitleg-over-hoe-de-website-werkt:1dda72a6a3583e1c24e1b4ab2830d714&#34;&gt;Een kort stukje uitleg over hoe de website werkt.&lt;/h2&gt;
-
-&lt;h3 id=&#34;de-icoontjes-in-de-linkerbovenhoek:1dda72a6a3583e1c24e1b4ab2830d714&#34;&gt;De icoontjes in de linkerbovenhoek:&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Immalle: Hier vind je een rechtstreekse link naar de website van de school.&lt;/li&gt;
-&lt;li&gt;Facebook: Klik hier een keertje op als je de school nog geen like hebt gegeven op Facebook.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;de-icoontjes-in-de-rechterbovenhoek:1dda72a6a3583e1c24e1b4ab2830d714&#34;&gt;De icoontjes in de rechterbovenhoek:&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Welkom: Op deze plaats zullen alle mededelingen worden geplaatst.&lt;/li&gt;
-&lt;li&gt;Stage: Via deze knop kan je makkelijk een lijst opvragen van alle taken in verband met de stage.&lt;/li&gt;
-&lt;li&gt;Gip: Via deze knop kan je snel alle taken in verband met de GIP opvragen.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;hoe-ik-mezelf-als-persoon-zie-in-de-toekomst:1dda72a6a3583e1c24e1b4ab2830d714&#34;&gt;Hoe ik mezelf als persoon zie in de toekomst?&lt;/h2&gt;
-
-&lt;p&gt;Waarschijnlijk volgt er op dit laatste jaar van het secundair onderwijs een poging tot hogeschool.
-Er is een grote kans dat de betreffende school zich in Antwerpen bevindt aangezien de richting Toegepaste Informatica er wordt aangeboden.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;em&gt;Ik hoop dat U makkelijk de weg vindt naar de taken die U zal beoordelen.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Veel leesplezier!&lt;/em&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;si-vous-avez-des-questions-sur-l-utilisation-de-youtube-il-y-a-une-faq-ici-http-mario-vankerckhoven-github-io-gip-taak4-faq:1dda72a6a3583e1c24e1b4ab2830d714&#34;&gt;Si vous avez des questions sur l&amp;rsquo;utilisation de YouTube, il y a une FAQ &lt;a href=&#34;http://mario-vankerckhoven.github.io/gip/Taak4-FAQ/&#34;&gt;ici&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;publicaties:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;gitlab (entire directory):&lt;a href=&#34;https://gitlab.com/mario-vankerckhoven/Definitieve_GipSite/tree/master&#34;&gt;https://gitlab.com/mario-vankerckhoven/Definitieve_GipSite/tree/master&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;github (subdirectory public) : &lt;a href=&#34;https://github.com/mario-vankerckhoven/mario-vankerckhoven.github.io&#34;&gt;https://github.com/mario-vankerckhoven/mario-vankerckhoven.github.io&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;website: &lt;a href=&#34;http://mario-vankerckhoven.github.io/welkom/Welkomstwoord/&#34;&gt;http://mario-vankerckhoven.github.io/welkom/Welkomstwoord/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     

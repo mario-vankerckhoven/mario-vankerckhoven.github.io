@@ -6,8 +6,54 @@
     <description>Recent content in Stages on Gip Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Jan 2016 13:24:39 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 19 Jan 2016 18:18:39 +0200</lastBuildDate>
     <atom:link href="http://mario-vankerckhoven.github.io/stage/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Stageverslag van 19 januari</title>
+      <link>http://mario-vankerckhoven.github.io/stage/Stageverslag%2019Januari/</link>
+      <pubDate>Tue, 19 Jan 2016 18:18:39 +0200</pubDate>
+      
+      <guid>http://mario-vankerckhoven.github.io/stage/Stageverslag%2019Januari/</guid>
+      <description>&lt;p&gt;Vandaag werd er heel veel tijd besteed aan het in kaart brengen van het netwerk van de gemeente. ( enkel op het gemeentehuis)&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+Er werd aandacht besteed aan het onprofessionele gedrag en werkwijze van Belgacom.
+Dit wijst op de wijze waarop de patching gebeurt is, geen onderscheid tussen telefoon/netwerk/printer/bancontact.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+Ook werd er uitgebreid onderzocht waar de netwerkaansluiting terug te vinden waren, slechts een tiental niet gevonden, die waarschijnlijk voor anti-inbraak en rookmelders zijn gebruikt in het plafond.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+later op deze leerrijke dag, werd er gewerkt aan updates voor het stock-programma.
+Ook werd er gezocht naar alternatieven voor Access en andere toepassing in MS office.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stageverslag van 18 januari</title>
+      <link>http://mario-vankerckhoven.github.io/stage/Stageverslag%2018Januari/</link>
+      <pubDate>Mon, 18 Jan 2016 18:15:39 +0200</pubDate>
+      
+      <guid>http://mario-vankerckhoven.github.io/stage/Stageverslag%2018Januari/</guid>
+      <description>&lt;p&gt;Deze dag stond grotendeels in het teken van de nieuwe bali en enkele pc&amp;rsquo;s, bankcontacten, telefoons en ID-card readers aansluiten op het netwerk.
+Naast het aansluiten hiervan moesten er ook een deel netwerkkabels gepatcht worden.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+Er werd een uitgebreide kennismaking gergeld met een windows 2008 server Core installatie.
+Waarop het gebruik van powershell niet mogelijk is ( Enige windows server die dit blijkbaar niet heeft.)&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+&amp;ndash;&amp;gt;  gebruik van OCSETUP om dhcp en IIS webserver te creëren.
+Naast de Core installatie is er ook een 2008 met GUI geïnstalleerd, om het verschil in ingenomen schijfruimte duidelijk te maken
+- GUI: 5,6Gb
+- Core: 1,8Gb&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+In de nammidag werd er tijd besteed aan het opzetten van een DHCP server met GUI.
+Ook werd de IIS structuur verduidelijkt met de GUI ervoor, er werd veel aandacht besteed aan het beveiligen van de webserver.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Stageverslag van 15 januari</title>
