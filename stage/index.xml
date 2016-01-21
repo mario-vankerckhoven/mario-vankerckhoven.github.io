@@ -6,8 +6,47 @@
     <description>Recent content in Stages on Gip Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Jan 2016 18:18:39 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 20 Jan 2016 17:18:39 +0200</lastBuildDate>
     <atom:link href="http://mario-vankerckhoven.github.io/stage/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Stageverslag van 20 januari</title>
+      <link>http://mario-vankerckhoven.github.io/stage/Stagebedrijf%2021Januari/</link>
+      <pubDate>Wed, 20 Jan 2016 17:18:39 +0200</pubDate>
+      
+      <guid>http://mario-vankerckhoven.github.io/stage/Stagebedrijf%2021Januari/</guid>
+      <description>&lt;p&gt;Vandaag werd ons werk van de voorbije dagen gevisualiseerd in de omgeving van Visio, die het mogelijk maakt snel en efficiënt een duidelijke tekening te maken.
+Hier kroop op zich veel tijd in, aangezien er een grote hoeveelheid lokalen moesten getekend worden.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+in de voormiddag hebben we een interventie gedaan in de basisschool van Massenhoven in verband met de smartboards.
+Verder werd er in de voormiddag tijd besteed aan het bespreken voor het beste contract met betrekking tot nieuwe betaalterminals.
+&lt;br&gt;
+Doorheen de dag door heb ik tijd besteed aan het bemachtigen van informatie voor taken van Bedrijfsbeheer.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+In de nammidag kwam H. Van Broeckhoven even langs om de stagetoestand te bespreken.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stageverslag van 20 januari</title>
+      <link>http://mario-vankerckhoven.github.io/stage/Stageverslag%2020Januari/</link>
+      <pubDate>Wed, 20 Jan 2016 17:18:39 +0200</pubDate>
+      
+      <guid>http://mario-vankerckhoven.github.io/stage/Stageverslag%2020Januari/</guid>
+      <description>&lt;p&gt;Vandaag werd er tijd besteed aan een eerste update voor het stock-programma.
+Ook werd er een oplossing gezocht om deze access-applicatie te kunnen deployen in een &amp;ldquo;environment&amp;rdquo; zonder MS Access .&lt;/p&gt;
+
+&lt;p&gt;Later  deze dag werd er naar een manier gezocht om een applicatie te updaten zonder dat de gegevens van de eindgebruiker verloren gaan, dit ging door middel van 2 aparte databases, 1 met data de andere met de objecten.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+In de nammidag werd er de tijd genomen om het register te veranderen door middel van regedit. hier werden onder meer nieuwe TrustedDomains en TrustedLocations in aangemaakt.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+de dag is afgesloten door aan de taken voor bedrijfsbeheer en frans te beginnen.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Stageverslag van 19 januari</title>
@@ -18,7 +57,7 @@
       <description>&lt;p&gt;Vandaag werd er heel veel tijd besteed aan het in kaart brengen van het netwerk van de gemeente. ( enkel op het gemeentehuis)&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;
-Er werd aandacht besteed aan het onprofessionele gedrag en werkwijze van Belgacom.
+Er werd aandacht besteed aan het onprofessionele gedrag en werkwijze van externe consultants.
 Dit wijst op de wijze waarop de patching gebeurt is, geen onderscheid tussen telefoon/netwerk/printer/bancontact.&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;

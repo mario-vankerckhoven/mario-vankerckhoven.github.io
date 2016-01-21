@@ -6,8 +6,47 @@
     <description>Recent content on Gip Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Jan 2016 18:18:39 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 20 Jan 2016 17:18:39 +0200</lastBuildDate>
     <atom:link href="http://mario-vankerckhoven.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Stageverslag van 20 januari</title>
+      <link>http://mario-vankerckhoven.github.io/stage/Stagebedrijf%2021Januari/</link>
+      <pubDate>Wed, 20 Jan 2016 17:18:39 +0200</pubDate>
+      
+      <guid>http://mario-vankerckhoven.github.io/stage/Stagebedrijf%2021Januari/</guid>
+      <description>&lt;p&gt;Vandaag werd ons werk van de voorbije dagen gevisualiseerd in de omgeving van Visio, die het mogelijk maakt snel en efficiënt een duidelijke tekening te maken.
+Hier kroop op zich veel tijd in, aangezien er een grote hoeveelheid lokalen moesten getekend worden.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+in de voormiddag hebben we een interventie gedaan in de basisschool van Massenhoven in verband met de smartboards.
+Verder werd er in de voormiddag tijd besteed aan het bespreken voor het beste contract met betrekking tot nieuwe betaalterminals.
+&lt;br&gt;
+Doorheen de dag door heb ik tijd besteed aan het bemachtigen van informatie voor taken van Bedrijfsbeheer.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+In de nammidag kwam H. Van Broeckhoven even langs om de stagetoestand te bespreken.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stageverslag van 20 januari</title>
+      <link>http://mario-vankerckhoven.github.io/stage/Stageverslag%2020Januari/</link>
+      <pubDate>Wed, 20 Jan 2016 17:18:39 +0200</pubDate>
+      
+      <guid>http://mario-vankerckhoven.github.io/stage/Stageverslag%2020Januari/</guid>
+      <description>&lt;p&gt;Vandaag werd er tijd besteed aan een eerste update voor het stock-programma.
+Ook werd er een oplossing gezocht om deze access-applicatie te kunnen deployen in een &amp;ldquo;environment&amp;rdquo; zonder MS Access .&lt;/p&gt;
+
+&lt;p&gt;Later  deze dag werd er naar een manier gezocht om een applicatie te updaten zonder dat de gegevens van de eindgebruiker verloren gaan, dit ging door middel van 2 aparte databases, 1 met data de andere met de objecten.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+In de nammidag werd er de tijd genomen om het register te veranderen door middel van regedit. hier werden onder meer nieuwe TrustedDomains en TrustedLocations in aangemaakt.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+de dag is afgesloten door aan de taken voor bedrijfsbeheer en frans te beginnen.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Stageverslag van 19 januari</title>
@@ -18,7 +57,7 @@
       <description>&lt;p&gt;Vandaag werd er heel veel tijd besteed aan het in kaart brengen van het netwerk van de gemeente. ( enkel op het gemeentehuis)&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;
-Er werd aandacht besteed aan het onprofessionele gedrag en werkwijze van Belgacom.
+Er werd aandacht besteed aan het onprofessionele gedrag en werkwijze van externe consultants.
 Dit wijst op de wijze waarop de patching gebeurt is, geen onderscheid tussen telefoon/netwerk/printer/bancontact.&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;
@@ -343,6 +382,37 @@ Een ander voordeel daarentegen is ook dat de bezoekers van de site makkelijk een
     </item>
     
     <item>
+      <title>Task 5: Autobiography</title>
+      <link>http://mario-vankerckhoven.github.io/gip/Taak5-Autobiography/</link>
+      <pubDate>Tue, 20 Oct 2015 15:14:32 +0200</pubDate>
+      
+      <guid>http://mario-vankerckhoven.github.io/gip/Taak5-Autobiography/</guid>
+      <description>
+
+&lt;h3 id=&#34;autobiography-the-start-of-an-it-revolutionary:344c64788bb5fb907d7294b8bb012b72&#34;&gt;Autobiography : The start of an IT revolutionary!&lt;/h3&gt;
+
+&lt;p&gt;&lt;br&gt;
+My name is Mario Van Kerckhoven, some people refer to me as : “ the spiritmaster of Aftermath”, since im the only spiritmaster in the clan Aftermath . I am 16 years old and live in Zandhoven, Belgium. I am still going to the school which is called ‘Immacullata’. It is situated in Oostmalle.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+My first expierence with IT obviously was gaming, I think i was 5 or 6 years old when my parents bought me a playstation 2, which was awesome back in the days. When i started to buy my first games, I mean my parents, i tought the characters looked a lot like real people and i tried things in real life that i saw in one of the games i had been playing. I also played on the PC since some of my friends told me to visit websites like Speeleiland.be and funnygames.be .&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+At the moment IT means for me going to school and follow lessons like software and system management. That also causes that when I am at home, I am sometimes doing IT related things like changing the name of the router. Each week im on the computer for an average of 4-6 hours a day, school included. My IT-related achievements at the moment are: finding a job ( Sita helpdesk support Beerse), I am the number 1 gamer on a minecraft server and I passed 1 year of IT-management on Immacullata. The fascinating part of the IT-related stuff is that u are always puzzling to change nothing in something. As u are following IT-related website/pages on the internet u can clearly see how the  world in changing because of IT-related things like the internet and games. I wouldn’t see myself in an expert yet, but each day i learn more and without noticing I am sure i will become an expert.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+When I look to the future I see myself working as a guy from the IT department and maybe a website builder as secondary occupation to make some more money. This could become my major activity as I notice a lot of enterprises ask for a website. At the moment i am already testing if that is somehow possible by a task for school. We have to make a business plan for business management. So i deceided to make it about making websites for people.
+one of my aspirations is to one day make some sort of social network that is even better then Facebook and Twitter.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+I personally think my PC and I are connected because all important data I have is on my computer or in the cloud so I can acces it from my smartphone. IT has quiet an important impact on my life and as I am following IT management I think that impact can only grow bigger and bigger.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/xSprfRA.png&#34; alt=&#34;Doing IT things&#34; /&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Tâche 4: FAQ ~ Youtube</title>
       <link>http://mario-vankerckhoven.github.io/gip/Taak4-FAQ/</link>
       <pubDate>Tue, 20 Oct 2015 15:14:32 +0200</pubDate>
@@ -412,89 +482,12 @@ Een ander voordeel daarentegen is ook dat de bezoekers van de site makkelijk een
     </item>
     
     <item>
-      <title>Task 5: Autobiography</title>
-      <link>http://mario-vankerckhoven.github.io/gip/Taak5-Autobiography/</link>
-      <pubDate>Tue, 20 Oct 2015 15:14:32 +0200</pubDate>
-      
-      <guid>http://mario-vankerckhoven.github.io/gip/Taak5-Autobiography/</guid>
-      <description>
-
-&lt;h3 id=&#34;autobiography-the-start-of-an-it-revolutionary:344c64788bb5fb907d7294b8bb012b72&#34;&gt;Autobiography : The start of an IT revolutionary!&lt;/h3&gt;
-
-&lt;p&gt;&lt;br&gt;
-My name is Mario Van Kerckhoven, some people refer to me as : “ the spiritmaster of Aftermath”, since im the only spiritmaster in the clan Aftermath . I am 16 years old and live in Zandhoven, Belgium. I am still going to the school which is called ‘Immacullata’. It is situated in Oostmalle.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
-My first expierence with IT obviously was gaming, I think i was 5 or 6 years old when my parents bought me a playstation 2, which was awesome back in the days. When i started to buy my first games, I mean my parents, i tought the characters looked a lot like real people and i tried things in real life that i saw in one of the games i had been playing. I also played on the PC since some of my friends told me to visit websites like Speeleiland.be and funnygames.be .&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
-At the moment IT means for me going to school and follow lessons like software and system management. That also causes that when I am at home, I am sometimes doing IT related things like changing the name of the router. Each week im on the computer for an average of 4-6 hours a day, school included. My IT-related achievements at the moment are: finding a job ( Sita helpdesk support Beerse), I am the number 1 gamer on a minecraft server and I passed 1 year of IT-management on Immacullata. The fascinating part of the IT-related stuff is that u are always puzzling to change nothing in something. As u are following IT-related website/pages on the internet u can clearly see how the  world in changing because of IT-related things like the internet and games. I wouldn’t see myself in an expert yet, but each day i learn more and without noticing I am sure i will become an expert.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
-When I look to the future I see myself working as a guy from the IT department and maybe a website builder as secondary occupation to make some more money. This could become my major activity as I notice a lot of enterprises ask for a website. At the moment i am already testing if that is somehow possible by a task for school. We have to make a business plan for business management. So i deceided to make it about making websites for people.
-one of my aspirations is to one day make some sort of social network that is even better then Facebook and Twitter.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
-I personally think my PC and I are connected because all important data I have is on my computer or in the cloud so I can acces it from my smartphone. IT has quiet an important impact on my life and as I am following IT management I think that impact can only grow bigger and bigger.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/xSprfRA.png&#34; alt=&#34;Doing IT things&#34; /&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Task3 :IT-tapa: Youtube ~ instruction video</title>
       <link>http://mario-vankerckhoven.github.io/gip/Task3%20-%20instruction%20video/</link>
       <pubDate>Tue, 20 Oct 2015 00:15:34 +0200</pubDate>
       
       <guid>http://mario-vankerckhoven.github.io/gip/Task3%20-%20instruction%20video/</guid>
       <description>&lt;iframe width=&#34;1066&#34; height=&#34;600&#34; src=&#34;https://www.youtube.com/embed/4xU5ybMzrUU&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Taak 2:IT-tapa: Youtube ~ instructiefilmpje</title>
-      <link>http://mario-vankerckhoven.github.io/gip/Taak2%20-%20Instructiefilmpje/</link>
-      <pubDate>Tue, 20 Oct 2015 00:15:32 +0200</pubDate>
-      
-      <guid>http://mario-vankerckhoven.github.io/gip/Taak2%20-%20Instructiefilmpje/</guid>
-      <description>&lt;iframe width=&#34;1066&#34; height=&#34;600&#34; src=&#34;https://www.youtube.com/embed/khHGXvcWmyw&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Taak 1: IT-tapa: Youtube ~ Middagsessie</title>
-      <link>http://mario-vankerckhoven.github.io/gip/Taak1-%20IT-tapa/</link>
-      <pubDate>Tue, 20 Oct 2015 00:14:32 +0200</pubDate>
-      
-      <guid>http://mario-vankerckhoven.github.io/gip/Taak1-%20IT-tapa/</guid>
-      <description>&lt;p&gt;Tijdens de IT-tapa sessie over youtube werd er meer verteld over de handige funties in youtube.
-Enkele besproken elementen waren:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Het gebruik van afspeellijsten&lt;/li&gt;
-&lt;li&gt;De functie later bekijken&lt;/li&gt;
-&lt;li&gt;De functie abonneren&lt;/li&gt;
-&lt;li&gt;Sneltoetsen op youtube&lt;/li&gt;
-&lt;li&gt;Het gebruik van filters&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Ik vond het zelf interresant om het lesgeven langs de andere kant te zien, ook het feit dat je presenteert tegen een ander type publiek dan de klasgroep was een leerrijke ervaring.&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;Deze taak is gemaakt in samenwerking met&lt;/code&gt; &lt;a href=&#34;http://christophedumont.github.io/&#34;&gt;Christophe Dumont&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
- &lt;a href=&#34;https://www.youtube.com/watch?v=khHGXvcWmyw&#34;&gt;Hier vind U het instructiefilmpje in verband met youtube&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
- Enkele foto&amp;rsquo;s:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/Ph8g2ya.jpg&#34; alt=&#34;Doing IT things&#34; /&gt;
-
- &lt;img src=&#34;http://i.imgur.com/lL03cQZ.jpg&#34; alt=&#34;Doing IT things&#34; /&gt;
-
-&lt;br&gt;
- &lt;a href=&#34;https://www.youtube.com/watch?v=khHGXvcWmyw&#34;&gt;Instructiefilmpje&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
