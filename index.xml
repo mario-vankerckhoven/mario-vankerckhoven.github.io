@@ -6,8 +6,27 @@
     <description>Recent content on Gip Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Jan 2016 17:14:39 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 22 Jan 2016 16:08:39 +0200</lastBuildDate>
     <atom:link href="http://mario-vankerckhoven.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Stageverslag van 22 januari</title>
+      <link>http://mario-vankerckhoven.github.io/stage/Stagebedrijf%2022Januari/</link>
+      <pubDate>Fri, 22 Jan 2016 16:08:39 +0200</pubDate>
+      
+      <guid>http://mario-vankerckhoven.github.io/stage/Stagebedrijf%2022Januari/</guid>
+      <description>&lt;p&gt;De allerlaatste dag van deze stageperiode begon met het onderzoeken van een probleem met een aantal websites, die niet meer online stonden.
+Later in de voormiddag werd er tijd besteed aan het GIS-systeem van de stad Zandhoven.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+Na het bekijken van GIS werd er nog snel nagekeken of er RAM-geheugen in enkele pc&amp;rsquo;s kon worden bijgestoken. helaas kwamen we tot de vaststelling dat een 32bit-systeem slechts 3GB RAM-geheugen ondersteund.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+Om het laatste uur te vullen werd er nagepraat over de voorbije weken.&lt;/p&gt;
+
+&lt;p&gt;Helaas zit de stage er nu op, enerzijds jammer aangezien je in de praktijk meer leert dan in een theorieles.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Stageverslag van 21 januari</title>
@@ -478,16 +497,6 @@ I personally think my PC and I are connected because all important data I have i
 &lt;li&gt;Vous activez les annonces.&lt;/li&gt;
 &lt;li&gt;Quand les visiteurs de votre vidéo, regardent les annonces, vous gagnez de l’argent.&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Task3 :IT-tapa: Youtube ~ instruction video</title>
-      <link>http://mario-vankerckhoven.github.io/gip/Task3%20-%20instruction%20video/</link>
-      <pubDate>Tue, 20 Oct 2015 00:15:34 +0200</pubDate>
-      
-      <guid>http://mario-vankerckhoven.github.io/gip/Task3%20-%20instruction%20video/</guid>
-      <description>&lt;iframe width=&#34;1066&#34; height=&#34;600&#34; src=&#34;https://www.youtube.com/embed/4xU5ybMzrUU&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 </description>
     </item>
     
