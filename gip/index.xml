@@ -6,8 +6,34 @@
     <description>Recent content in Gips on Gip Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2015 15:14:32 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 26 Apr 2016 18:14:32 +0200</lastBuildDate>
     <atom:link href="http://mario-vankerckhoven.github.io/gip/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>taak 11: Case Study</title>
+      <link>http://mario-vankerckhoven.github.io/gip/Taak11%20Case%20study/</link>
+      <pubDate>Tue, 26 Apr 2016 18:14:32 +0200</pubDate>
+      
+      <guid>http://mario-vankerckhoven.github.io/gip/Taak11%20Case%20study/</guid>
+      <description>
+
+&lt;h3 id=&#34;de-omgeving-gevisualiseerd:3223e08f2c4f7301d7315c2b313992c6&#34;&gt;De omgeving gevisualiseerd&lt;/h3&gt;
+
+&lt;p&gt;&lt;br&gt;
+Het stagebedrijf maakt gebruik van de GIs-toepassing geleverd door OrbitGis.&lt;/p&gt;
+
+&lt;p&gt;Het programma kan makkelijk geïmplementeerd worden op een server binnen het eigen bedrijf wat het ideaal maakt voor de beheerder. De gegevens worden zodanig weggeschreven dat elke domeingebruiker ( met rechten)  tegelijkertijd de gegevens kan raadplegen. De data kan op eender welke plaats worden opgeslagen met de tool OrbitGis, maar het is in elk geval handig dat elke werknemer dit op dezelfde plaats doet. Elke zogenaamde laag word weggeschreven in een bepaald bestand, wanneer één werknemer zich moet bezig houden met een welbepaalde laag, kan hij deze verplaatsen als hij er het recht toe heeft. De rechten kunnen per account worden ingesteld, op het stagebedrijf had elke dienst een apart account.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+Diensten als ruimtelijke ordening gebruiken het systeem om snel en overzichtelijk te kunnen zien hoe een bepaald huis, straat of het ganse dorp is opgebouwd qua vergunningen, rioleringen, inwoners. Om een eigen werkomgeving te creëeren kan je kan naar eigen behoeften lagen toevoegen. Hierdoor kan elk bedrijf zelf kiezen hoe het zijn informatie bewaard. De lagen kunnen op eender welke moment worden verwijderd of op onzichtbaar worden gezet. Op deze manier kan de gebruiker selectief naar gegevens op zoek gaan en de niet-relevante meteen uitsluiten. Lagen kunnen ook tegelijk actief zijn, maar dit kan eventueel voor problemen zorgen met tekst overlapping tenzij je de teksten aan een veld koppelt en niet op het document “schrijft”.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+De gemeente Zandhoven werkt met het programma OrbitGis omdat dit door de federale regering is opgelegd. Voor de werknemers is er een GUI voor het aanpassen van gegevens, echter gebruiken andere programma’s of hardcoders vaak talen als Python of Javascript (webGis).  Er is een uitgebreide keuze tussen eventuele alternatieven.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+ Een ander positief punt aan het GIs-verhaal is dat het gegevens vanuit verschillende diensten kan samenvoegen tot 1 groot geheel zodat het makkelijk beheerbaar wordt. De Gemeentediensten die hierin samenwerken zijn Ruimtelijke ordening, Bevolking (Sterftecijfers, Geboortecijfers, eigendomsrechten), maar ook de milieudienst en politiedienst. Om de diensten hun persoonlijke lagen te  beveiligen, kunnen er ook rechten worden ingesteld op wie welke lagen mag zien. Bijvoorbeeld de dienst bevolking heeft geen recht om de misdaadgegevens van de politie te bekijken.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Taak 19: Welkomstwoord</title>
