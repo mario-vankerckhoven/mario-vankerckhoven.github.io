@@ -6,8 +6,189 @@
     <description>Recent content in Gips on Gip Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Apr 2016 18:14:32 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 08 May 2016 15:14:32 +0200</lastBuildDate>
     <atom:link href="http://mario-vankerckhoven.github.io/gip/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Analyseren, ontwerpen en implementeren v.e. applicatie met een database.</title>
+      <link>http://mario-vankerckhoven.github.io/gip/Taak8%20ontwerpen%20applicatie%20met%20een%20database/</link>
+      <pubDate>Sun, 08 May 2016 15:14:32 +0200</pubDate>
+      
+      <guid>http://mario-vankerckhoven.github.io/gip/Taak8%20ontwerpen%20applicatie%20met%20een%20database/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/xd6kWjt.png&#34; alt=&#34;Doing IT things&#34; /&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IT-Profile</title>
+      <link>http://mario-vankerckhoven.github.io/gip/Taak%20ITProfile/</link>
+      <pubDate>Sun, 08 May 2016 13:18:25 +0200</pubDate>
+      
+      <guid>http://mario-vankerckhoven.github.io/gip/Taak%20ITProfile/</guid>
+      <description>&lt;p&gt;&lt;html lang=&#34;en&#34;&gt;
+&lt;head&gt;
+  &lt;title&gt;Bootstrap Example&lt;/title&gt;
+  &lt;meta charset=&#34;utf-8&#34;&gt;
+  &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1&#34;&gt;
+  &lt;link rel=&#34;stylesheet&#34; href=&#34;http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css&#34;&gt;
+  &lt;script src=&#34;https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js&#34;&gt;&lt;/script&gt;
+  &lt;script src=&#34;http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js&#34;&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;div class=&#34;container&#34;&gt;&lt;/p&gt;
+
+&lt;h1&gt; Kennis van programmeertalen &lt;/h1&gt;
+
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;75&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:75%&#34;&gt;
+    C#
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;85&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:85%&#34;&gt;
+    HTML
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;
+    CSS
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;
+    Javascript
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;
+    Jquery
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;
+    Lua
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Javascript applicatie</title>
+      <link>http://mario-vankerckhoven.github.io/gip/Taak%20Javascript/</link>
+      <pubDate>Sun, 08 May 2016 12:18:25 +0200</pubDate>
+      
+      <guid>http://mario-vankerckhoven.github.io/gip/Taak%20Javascript/</guid>
+      <description>&lt;p&gt;Door op onderstaande link te klikken zal u worden verwezen naar de Javascript-applicatie:
+&lt;br&gt;&lt;/br&gt;
+&lt;a href=&#34;http://mario-vankerckhoven2.github.io&#34;&gt;Javascript-applicatie&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Review of a software tool in the training company: MS Visio</title>
+      <link>http://mario-vankerckhoven.github.io/gip/Taak%20ReviewHardware/</link>
+      <pubDate>Sun, 08 May 2016 12:18:25 +0200</pubDate>
+      
+      <guid>http://mario-vankerckhoven.github.io/gip/Taak%20ReviewHardware/</guid>
+      <description>&lt;p&gt;&lt;br&gt;&lt;/br&gt;
+MS Visio is a tool created by Microsoft, but it is not in the office package, so if you want to use it, you will need to buy it separately. Another bad thing about it is the price, it is 399.00 euros for the standard version.
+&lt;br&gt;&lt;/br&gt;
+This software can come in very handy if you are planning on making a very detailed drawing of almost anything in your environment. It includes some standard libraries like “ Networking”, “office”, etc . But of course you can download your very own libraries from the internet or download your own!
+&lt;br&gt;&lt;/br&gt;
+In the review below, which is a little bit outdated by now, they mostly talked about the pros of Visio and when it comes to finding any flaws by now, I honestly wish you good luck. All the flaws mentioned are most likely fixed in the newer versions of MS Visio. Or at least plug-ins have been developed that you can download to upgrade your Visio even more. Maybe you think “But it is an expensive piece of software”. I can’t deny that, but when you can get this software for your work as an IT person, architect, or any other job that requires a bit of drawing your work will be done quicker and it would be editable at all times.
+&lt;br&gt;&lt;/br&gt;
+A couple of the assets of Visio that are mentioned are the new file format since 2013, which now gives you the oppurtunity to use Visio within Sharepoint, it is ideal for working in teams. Yet another pro is that you can select a basic starting theme for your drawing project. The third awesome feature they mentioned, which I have used myself is the commenting function. It’s just great when you want to add some information on the top of your drawing, which doesn’t have to be background information . That also is another great feature of this tool. It allows you to put extra information into any object .
+&lt;br&gt;&lt;/br&gt;
+When you get to the point you can actually start a project and you have decided to make it a team project, in the latest version of Visio there is a live update function, so whenever you change the data, your entire team will see that it has changed. Now I am talking about younger versions of Visio, maybe an idea for the future is to upgrade the programming aspect behind objects, maybe it will even be used for desktop applications then.
+&lt;br&gt;&lt;/br&gt;
+Of course there are other drawing softwares which are probally cheaper as well, but there will be no live support of the Microsoft Helpdesk whenever you need it. Suprised as I was,  reading other drawing software specifications, I haven’t found a single thing that Visio didn’t offer the users yet that another software would give you. Comparing what you will get and what you are paying for it, I actually think it isn’t a bad purchase at all.
+&lt;br&gt;&lt;/br&gt;
+&lt;img src=&#34;http://i.imgur.com/0IQTx2V.png&#34; alt=&#34;Doing IT things&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Voici un reportage photo concernant le stage</title>
+      <link>http://mario-vankerckhoven.github.io/gip/Taak%20Reportage%20photo/</link>
+      <pubDate>Sun, 08 May 2016 12:18:25 +0200</pubDate>
+      
+      <guid>http://mario-vankerckhoven.github.io/gip/Taak%20Reportage%20photo/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.genial.ly/View/Index/56b0df7a1561e80628aa734a/&#34;&gt;klik hier voor de reportage op genial.ly&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/IviuKmq.png&#34; alt=&#34;Doing IT things&#34; /&gt;
+
+&lt;br&gt;&lt;/br&gt;
+&lt;img src=&#34;http://i.imgur.com/RZb56KR.png&#34; alt=&#34;Doing IT things&#34; /&gt;
+
+&lt;br&gt;&lt;/br&gt;
+&lt;img src=&#34;http://i.imgur.com/zUw3KY4.png&#34; alt=&#34;Doing IT things&#34; /&gt;
+
+&lt;br&gt;&lt;/br&gt;
+&lt;img src=&#34;http://i.imgur.com/tj19nEj.png&#34; alt=&#34;Doing IT things&#34; /&gt;
+
+&lt;br&gt;&lt;/br&gt;
+&lt;img src=&#34;http://i.imgur.com/YFLIky2.png&#34; alt=&#34;Doing IT things&#34; /&gt;
+
+&lt;br&gt;&lt;/br&gt;
+&lt;img src=&#34;http://i.imgur.com/w9V3P26.png&#34; alt=&#34;Doing IT things&#34; /&gt;
+
+&lt;br&gt;&lt;/br&gt;
+&lt;img src=&#34;http://i.imgur.com/Zh9tpLW.png&#34; alt=&#34;Doing IT things&#34; /&gt;
+
+&lt;br&gt;&lt;/br&gt;
+&lt;img src=&#34;http://i.imgur.com/BKKesIn.png&#34; alt=&#34;Doing IT things&#34; /&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Huisstijl van het stagebedrijf</title>
+      <link>http://mario-vankerckhoven.github.io/gip/Taak%20Huisstijl/</link>
+      <pubDate>Sun, 08 May 2016 12:14:35 +0200</pubDate>
+      
+      <guid>http://mario-vankerckhoven.github.io/gip/Taak%20Huisstijl/</guid>
+      <description>&lt;p&gt;Stage gelopen bij: Gemeentehuis Zandhoven&lt;/p&gt;
+
+&lt;p&gt;Logo stagebedrijf ( word vermeld bovenaan bij al het uitgaand verkeer ):&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/oZaG2R9.png&#34; alt=&#34;Doing IT things&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Online logo stagebedrijf:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/wWTbT0K.png&#34; alt=&#34;Doing IT things&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Wapenschild in de stempel van het bedrijf ( word gebruikt bij goedkeuring door het schepencollege):&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/B6nHqwI.png&#34; alt=&#34;Doing IT things&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Basiskleur die op de meeste papieren / websites worden gebruikt:&lt;/p&gt;
+
+&lt;p&gt;Rood: 255&lt;/p&gt;
+
+&lt;p&gt;Groen:232&lt;/p&gt;
+
+&lt;p&gt;Blauw: 149&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/KkfSfZo.png&#34; alt=&#34;Doing IT things&#34; /&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>taak 11: Case Study</title>

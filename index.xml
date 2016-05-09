@@ -6,8 +6,189 @@
     <description>Recent content on Gip Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Apr 2016 18:14:32 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 08 May 2016 15:14:32 +0200</lastBuildDate>
     <atom:link href="http://mario-vankerckhoven.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Analyseren, ontwerpen en implementeren v.e. applicatie met een database.</title>
+      <link>http://mario-vankerckhoven.github.io/gip/Taak8%20ontwerpen%20applicatie%20met%20een%20database/</link>
+      <pubDate>Sun, 08 May 2016 15:14:32 +0200</pubDate>
+      
+      <guid>http://mario-vankerckhoven.github.io/gip/Taak8%20ontwerpen%20applicatie%20met%20een%20database/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/xd6kWjt.png&#34; alt=&#34;Doing IT things&#34; /&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IT-Profile</title>
+      <link>http://mario-vankerckhoven.github.io/gip/Taak%20ITProfile/</link>
+      <pubDate>Sun, 08 May 2016 13:18:25 +0200</pubDate>
+      
+      <guid>http://mario-vankerckhoven.github.io/gip/Taak%20ITProfile/</guid>
+      <description>&lt;p&gt;&lt;html lang=&#34;en&#34;&gt;
+&lt;head&gt;
+  &lt;title&gt;Bootstrap Example&lt;/title&gt;
+  &lt;meta charset=&#34;utf-8&#34;&gt;
+  &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1&#34;&gt;
+  &lt;link rel=&#34;stylesheet&#34; href=&#34;http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css&#34;&gt;
+  &lt;script src=&#34;https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js&#34;&gt;&lt;/script&gt;
+  &lt;script src=&#34;http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js&#34;&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;div class=&#34;container&#34;&gt;&lt;/p&gt;
+
+&lt;h1&gt; Kennis van programmeertalen &lt;/h1&gt;
+
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;75&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:75%&#34;&gt;
+    C#
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;85&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:85%&#34;&gt;
+    HTML
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;
+    CSS
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;
+    Javascript
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;
+    Jquery
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;
+    Lua
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Javascript applicatie</title>
+      <link>http://mario-vankerckhoven.github.io/gip/Taak%20Javascript/</link>
+      <pubDate>Sun, 08 May 2016 12:18:25 +0200</pubDate>
+      
+      <guid>http://mario-vankerckhoven.github.io/gip/Taak%20Javascript/</guid>
+      <description>&lt;p&gt;Door op onderstaande link te klikken zal u worden verwezen naar de Javascript-applicatie:
+&lt;br&gt;&lt;/br&gt;
+&lt;a href=&#34;http://mario-vankerckhoven2.github.io&#34;&gt;Javascript-applicatie&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Voici un reportage photo concernant le stage</title>
+      <link>http://mario-vankerckhoven.github.io/gip/Taak%20Reportage%20photo/</link>
+      <pubDate>Sun, 08 May 2016 12:18:25 +0200</pubDate>
+      
+      <guid>http://mario-vankerckhoven.github.io/gip/Taak%20Reportage%20photo/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.genial.ly/View/Index/56b0df7a1561e80628aa734a/&#34;&gt;klik hier voor de reportage op genial.ly&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/IviuKmq.png&#34; alt=&#34;Doing IT things&#34; /&gt;
+
+&lt;br&gt;&lt;/br&gt;
+&lt;img src=&#34;http://i.imgur.com/RZb56KR.png&#34; alt=&#34;Doing IT things&#34; /&gt;
+
+&lt;br&gt;&lt;/br&gt;
+&lt;img src=&#34;http://i.imgur.com/zUw3KY4.png&#34; alt=&#34;Doing IT things&#34; /&gt;
+
+&lt;br&gt;&lt;/br&gt;
+&lt;img src=&#34;http://i.imgur.com/tj19nEj.png&#34; alt=&#34;Doing IT things&#34; /&gt;
+
+&lt;br&gt;&lt;/br&gt;
+&lt;img src=&#34;http://i.imgur.com/YFLIky2.png&#34; alt=&#34;Doing IT things&#34; /&gt;
+
+&lt;br&gt;&lt;/br&gt;
+&lt;img src=&#34;http://i.imgur.com/w9V3P26.png&#34; alt=&#34;Doing IT things&#34; /&gt;
+
+&lt;br&gt;&lt;/br&gt;
+&lt;img src=&#34;http://i.imgur.com/Zh9tpLW.png&#34; alt=&#34;Doing IT things&#34; /&gt;
+
+&lt;br&gt;&lt;/br&gt;
+&lt;img src=&#34;http://i.imgur.com/BKKesIn.png&#34; alt=&#34;Doing IT things&#34; /&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Review of a software tool in the training company: MS Visio</title>
+      <link>http://mario-vankerckhoven.github.io/gip/Taak%20ReviewHardware/</link>
+      <pubDate>Sun, 08 May 2016 12:18:25 +0200</pubDate>
+      
+      <guid>http://mario-vankerckhoven.github.io/gip/Taak%20ReviewHardware/</guid>
+      <description>&lt;p&gt;&lt;br&gt;&lt;/br&gt;
+MS Visio is a tool created by Microsoft, but it is not in the office package, so if you want to use it, you will need to buy it separately. Another bad thing about it is the price, it is 399.00 euros for the standard version.
+&lt;br&gt;&lt;/br&gt;
+This software can come in very handy if you are planning on making a very detailed drawing of almost anything in your environment. It includes some standard libraries like “ Networking”, “office”, etc . But of course you can download your very own libraries from the internet or download your own!
+&lt;br&gt;&lt;/br&gt;
+In the review below, which is a little bit outdated by now, they mostly talked about the pros of Visio and when it comes to finding any flaws by now, I honestly wish you good luck. All the flaws mentioned are most likely fixed in the newer versions of MS Visio. Or at least plug-ins have been developed that you can download to upgrade your Visio even more. Maybe you think “But it is an expensive piece of software”. I can’t deny that, but when you can get this software for your work as an IT person, architect, or any other job that requires a bit of drawing your work will be done quicker and it would be editable at all times.
+&lt;br&gt;&lt;/br&gt;
+A couple of the assets of Visio that are mentioned are the new file format since 2013, which now gives you the oppurtunity to use Visio within Sharepoint, it is ideal for working in teams. Yet another pro is that you can select a basic starting theme for your drawing project. The third awesome feature they mentioned, which I have used myself is the commenting function. It’s just great when you want to add some information on the top of your drawing, which doesn’t have to be background information . That also is another great feature of this tool. It allows you to put extra information into any object .
+&lt;br&gt;&lt;/br&gt;
+When you get to the point you can actually start a project and you have decided to make it a team project, in the latest version of Visio there is a live update function, so whenever you change the data, your entire team will see that it has changed. Now I am talking about younger versions of Visio, maybe an idea for the future is to upgrade the programming aspect behind objects, maybe it will even be used for desktop applications then.
+&lt;br&gt;&lt;/br&gt;
+Of course there are other drawing softwares which are probally cheaper as well, but there will be no live support of the Microsoft Helpdesk whenever you need it. Suprised as I was,  reading other drawing software specifications, I haven’t found a single thing that Visio didn’t offer the users yet that another software would give you. Comparing what you will get and what you are paying for it, I actually think it isn’t a bad purchase at all.
+&lt;br&gt;&lt;/br&gt;
+&lt;img src=&#34;http://i.imgur.com/0IQTx2V.png&#34; alt=&#34;Doing IT things&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Huisstijl van het stagebedrijf</title>
+      <link>http://mario-vankerckhoven.github.io/gip/Taak%20Huisstijl/</link>
+      <pubDate>Sun, 08 May 2016 12:14:35 +0200</pubDate>
+      
+      <guid>http://mario-vankerckhoven.github.io/gip/Taak%20Huisstijl/</guid>
+      <description>&lt;p&gt;Stage gelopen bij: Gemeentehuis Zandhoven&lt;/p&gt;
+
+&lt;p&gt;Logo stagebedrijf ( word vermeld bovenaan bij al het uitgaand verkeer ):&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/oZaG2R9.png&#34; alt=&#34;Doing IT things&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Online logo stagebedrijf:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/wWTbT0K.png&#34; alt=&#34;Doing IT things&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Wapenschild in de stempel van het bedrijf ( word gebruikt bij goedkeuring door het schepencollege):&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/B6nHqwI.png&#34; alt=&#34;Doing IT things&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Basiskleur die op de meeste papieren / websites worden gebruikt:&lt;/p&gt;
+
+&lt;p&gt;Rood: 255&lt;/p&gt;
+
+&lt;p&gt;Groen:232&lt;/p&gt;
+
+&lt;p&gt;Blauw: 149&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/KkfSfZo.png&#34; alt=&#34;Doing IT things&#34; /&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>taak 11: Case Study</title>
@@ -198,300 +379,6 @@ waarvoor we een oplossing hebben moeten zoeken bij projectieapparatuur en kalibr
 
 &lt;p&gt;&lt;br&gt;
 Ook werden die dag nog de updates van windows op verschillende pc&amp;rsquo;s uitgeschakeld.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Stageverslag van 12 januari</title>
-      <link>http://mario-vankerckhoven.github.io/stage/Stageverlsag%2012Januari/</link>
-      <pubDate>Tue, 12 Jan 2016 17:57:36 +0200</pubDate>
-      
-      <guid>http://mario-vankerckhoven.github.io/stage/Stageverlsag%2012Januari/</guid>
-      <description>&lt;p&gt;De 2de dag van deze stage verliep nogal gehaast door een noodoproep!&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
-De dag werd ingezet met de installaties die op 11 januari nog niet gedaan waren.
-Bij het aankondigen van een opdracht kwam een dringend telefoontje er tussen, en zijn we naar het Containerpark van Zandhoven gereden, om de &amp;ldquo;barelen software&amp;rdquo; bij te werken, omdat er problemen op traden.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
-toen we bij het containerpark vertrokken, zijn we naar een nog andere vestiging gereden om daar software te installeren. Zodat in de toekomst vanop afstand hulp geboden kan worden.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
-De namiddag bestond uit het installeren van verschillende service packs.
-Maar ook zijn we begonnen met het creeëren van een &amp;ldquo;stock applicatie&amp;rdquo; om makkelijk de voorraad na evenementen te vergelijken.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Stageverslag van 11 januari</title>
-      <link>http://mario-vankerckhoven.github.io/stage/Stageverlsag%2011Januari/</link>
-      <pubDate>Mon, 11 Jan 2016 17:14:32 +0200</pubDate>
-      
-      <guid>http://mario-vankerckhoven.github.io/stage/Stageverlsag%2011Januari/</guid>
-      <description>&lt;p&gt;De eerste stagedag was een echte verrassing, omdat ik niet wist wat er op mij af ging komen
-buiten hetgene wat reeds in een voorafgaand gesprek was vastgelegd.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
-We zijn de dag begonnen door alvast zelf de PC aan te sluiten en de grafishe kaart hiervan te vervangen, zodat VGA mogelijk werd.
-Toen deze enigszins verouderde pc toch open lag, hebben we er meteen een kleine inventaris van opgemaakt.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
-Nadat de te gebruiken pc in orde was gesteldt, ben ik begonnen met het opzoeken van ontbrekende drivers op aangewezen PC&amp;rsquo;s.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
-In de namiddag zijn we overgegaan tot de clean install van enkele windows7-machines op verouderde XP&amp;rsquo;s.&lt;/p&gt;
-
-&lt;p&gt;De installaties liepen eerst moeizaam door ongekende wachtwoorden op de BIOS waardoor aan het moederbord geknoeit moest worden.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Taak 19: Welkomstwoord</title>
-      <link>http://mario-vankerckhoven.github.io/gip/Taak19%20-%20Welkomstwoord/</link>
-      <pubDate>Thu, 19 Nov 2015 15:14:32 +0200</pubDate>
-      
-      <guid>http://mario-vankerckhoven.github.io/gip/Taak19%20-%20Welkomstwoord/</guid>
-      <description>
-
-&lt;h2 id=&#34;welkom-op-de-website-van-mario-van-kerckhoven:901bf4849c5eb210c540d25e947f8a08&#34;&gt;Welkom op de website van Mario Van Kerckhoven.&lt;/h2&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;over-mezelf:901bf4849c5eb210c540d25e947f8a08&#34;&gt;over mezelf:&lt;/h2&gt;
-
-&lt;p&gt;Ik ben 17-jarige jongen uit Zandhoven.
-Ik ga naar de school Immaculata instituut gesitueerd in Oostmalle.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;een-kort-stukje-uitleg-over-hoe-de-website-werkt:901bf4849c5eb210c540d25e947f8a08&#34;&gt;Een kort stukje uitleg over hoe de website werkt.&lt;/h2&gt;
-
-&lt;h3 id=&#34;de-icoontjes-in-de-linkerbovenhoek:901bf4849c5eb210c540d25e947f8a08&#34;&gt;De icoontjes in de linkerbovenhoek:&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Immalle: Hier vind je een rechtstreekse link naar de website van de school.&lt;/li&gt;
-&lt;li&gt;Facebook: Klik hier een keertje op als je de school nog geen like hebt gegeven op Facebook.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;de-icoontjes-in-de-rechterbovenhoek:901bf4849c5eb210c540d25e947f8a08&#34;&gt;De icoontjes in de rechterbovenhoek:&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Welkom: Op deze plaats zullen alle mededelingen worden geplaatst.&lt;/li&gt;
-&lt;li&gt;Stage: Via deze knop kan je makkelijk een lijst opvragen van alle taken in verband met de stage.&lt;/li&gt;
-&lt;li&gt;Gip: Via deze knop kan je snel alle taken in verband met de GIP opvragen.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;hoe-ik-mezelf-als-persoon-zie-in-de-toekomst:901bf4849c5eb210c540d25e947f8a08&#34;&gt;Hoe ik mezelf als persoon zie in de toekomst?&lt;/h2&gt;
-
-&lt;p&gt;Waarschijnlijk volgt er op dit laatste jaar van het secundair onderwijs een poging tot hogeschool.
-Er is een grote kans dat de betreffende school zich in Antwerpen bevindt aangezien de richting Toegepaste Informatica er wordt aangeboden.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;em&gt;Ik hoop dat U makkelijk de weg vindt naar de taken die U zal beoordelen.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Veel leesplezier!&lt;/em&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;si-vous-avez-des-questions-sur-l-utilisation-de-youtube-il-y-a-une-faq-ici-http-mario-vankerckhoven-github-io-gip-taak4-faq:901bf4849c5eb210c540d25e947f8a08&#34;&gt;Si vous avez des questions sur l&amp;rsquo;utilisation de YouTube, il y a une FAQ &lt;a href=&#34;http://mario-vankerckhoven.github.io/gip/Taak4-FAQ/&#34;&gt;ici&lt;/a&gt;&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Basisinfo stagebedrijf</title>
-      <link>http://mario-vankerckhoven.github.io/stage/Stagebedrijf%20Basisinfo/</link>
-      <pubDate>Thu, 22 Oct 2015 19:18:11 +0200</pubDate>
-      
-      <guid>http://mario-vankerckhoven.github.io/stage/Stagebedrijf%20Basisinfo/</guid>
-      <description>
-
-&lt;h2 id=&#34;naam-bedrijf-gemeentehuis-zandhoven:10607194d91f824e58a8767f0bdb6919&#34;&gt;Naam bedrijf: Gemeentehuis Zandhoven&lt;/h2&gt;
-
-&lt;h3 id=&#34;locatie-van-het-stagebedrijf:10607194d91f824e58a8767f0bdb6919&#34;&gt;Locatie van het stagebedrijf&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;straat: Lierselei&lt;/li&gt;
-&lt;li&gt;nummer: 12&lt;/li&gt;
-&lt;li&gt;gemeente: Zandhoven&lt;/li&gt;
-&lt;li&gt;postcode: 2240&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;stagebegeleider:10607194d91f824e58a8767f0bdb6919&#34;&gt;Stagebegeleider&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;naam: De Meulder&lt;/li&gt;
-&lt;li&gt;voornaam: Herman&lt;/li&gt;
-&lt;li&gt;functie: ICT-Coördinator&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Taak 7: Workflows ~ Hugo vs WordPress</title>
-      <link>http://mario-vankerckhoven.github.io/gip/Taak7%20-%20Workflows/</link>
-      <pubDate>Thu, 22 Oct 2015 18:14:32 +0200</pubDate>
-      
-      <guid>http://mario-vankerckhoven.github.io/gip/Taak7%20-%20Workflows/</guid>
-      <description>
-
-&lt;h2 id=&#34;wat-moet-je-gebruiken-hugo-of-wordpress:3e0488955edd485a1808ffd381e68fc2&#34;&gt;Wat moet je gebruiken ?  Hugo of Wordpress ?&lt;/h2&gt;
-
-&lt;p&gt;Voor een beginner is Wordpress een echte aanrader maar vanaf dat je reeds kennis hebt met &lt;strong&gt;html/css code&lt;/strong&gt; raad ik het leren gebruiken van Hugo aan, aangezien hugo over meer aanpassingsmogelijkheden beschikt. Je moet echter wel een periode inlassen om de Directory die Hugo Creëert te begrijpen. Bij een WordPress site is dit niet het geval aangezien er duidelijk word verwoord wat er gebeurt wanneer je iets aanpast. Als je eenmaal de &lt;strong&gt;Hugo structuur&lt;/strong&gt; door hebt, heeft WordPress gebruiken eigenlijk weinig zin.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br&gt;
-&lt;br&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;eigen-ervaring:3e0488955edd485a1808ffd381e68fc2&#34;&gt;Eigen ervaring&lt;/h2&gt;
-
-&lt;h3 id=&#34;hugo:3e0488955edd485a1808ffd381e68fc2&#34;&gt;Hugo&lt;/h3&gt;
-
-&lt;p&gt;Persoonlijk vind ik &lt;code&gt;Hugo&lt;/code&gt; een redelijk lastige tool om te gebruiken aangezien er weinig tot geen documentatie te vinden is.
-De Documentatie die er wel is, is niet gebruiksvriendelijk vanaf je de nieuwe site hebt aangemaakt en lijkt gemaakt te zijn voor professionele gebruikers van Hugo.
-Echter vind ik wel dat Hugo een handige tool is in gebruik vanaf je de basishandelingen kunt gebruiken zoals:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;Hugo Server&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Hugo baseUrl&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Hugo ...&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Na de opdracht om met &lt;code&gt;Hugo&lt;/code&gt; een website/blog te maken, vind ik dat je Hugo wel beter begrijpt qua mappenstructuur en verwijzingen.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;wordpress:3e0488955edd485a1808ffd381e68fc2&#34;&gt;WordPress&lt;/h3&gt;
-
-&lt;p&gt;Persoonlijk vind ik WordPress een superhandige tool voor een beginner of iemand die nog nooit iets met &lt;strong&gt;webhosting/html&amp;amp;CSS&lt;/strong&gt; heeft gedaan.
-Ook vind ik het wel handig dat je bij het kiezen van een startthema al direct een teaser te zien krijgt van hoe je website na 2 klikjes er al uit ziet.
-Alles op de WordPress site is makkelijk aan te passen aangezien het menu duidelijk verwoord wat elke aanpassing doet.
-Het publiceren van een WordPress blog is ook zeer makkelijk, er is letterlijk een knopje &lt;strong&gt;&amp;ldquo;Opslaan &amp;amp; publiceren&amp;rdquo;&lt;/strong&gt;.
-Een ander voordeel daarentegen is ook dat de bezoekers van de site makkelijk een comment kunnen achterlaten.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br&gt;
-&lt;br&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;directory-structuur-hugo:3e0488955edd485a1808ffd381e68fc2&#34;&gt;Directory structuur Hugo&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;code&gt;archetypes&lt;/code&gt;&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Hier bevind zich het default.md bestand, lijkt onbelangrijk buiten het feit dat er in staat dat de taal GO word gebruikt&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;code&gt;content&lt;/code&gt;&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Alle eventuele post worden hierin aangemaakt, een subdirectory aanmaken is mogelijk om bepaalde posts te kunnen groeperen&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;code&gt;layouts&lt;/code&gt;&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;code&gt;default&lt;/code&gt;&lt;/strong&gt;: De html code in deze bestanden bestaat uit verwijzingen naar de html bestanden in de subdirectory &amp;lsquo;partials&amp;rsquo;. Ook word hier bepaalt hoe je posts standaard op het scherm verschijnen alvoor ze individueel geopent worden&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;code&gt;partials&lt;/code&gt;&lt;/strong&gt;: De basisopmaak-bestanden bevinden zich hier: header.html , head.html en footer.html. Eventuele aanpassingen die invloed hebben op al je headers/heads/footers doe je hier&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;code&gt;static&lt;/code&gt;&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;code&gt;css&lt;/code&gt;&lt;/strong&gt;: Hierin worden de kleuren, groottes en alle andere dingen in verband met opmaak gedefinieerd&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;code&gt;fonts&lt;/code&gt;&lt;/strong&gt;: Het lettertype dat een bepaald iets op je website gebruikt word vanaf hier geladen. Nagelang je font krijg je er ook leuke extra&amp;rsquo;s bij zoals icoontjes&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;code&gt;images&lt;/code&gt;&lt;/strong&gt;: Hierin worden alle eventuele images geplaatst die je op je website wilt gebruiken. tenzij je images laad via URL&amp;rsquo;s&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;code&gt;config.toml&lt;/code&gt;&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;De basis van alles wat hugo doet staat hier (defaultwaarden worden wel verborgen).&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;code&gt;public&lt;/code&gt;&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Elke keer je een nieuwe website bouwt met &lt;strong&gt;&lt;code&gt;hugo server --flag1 --flag2&lt;/code&gt; &lt;/strong&gt;, word hier de volledig gegenereerde website geplaatst&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Tâche 4: FAQ ~ Youtube</title>
-      <link>http://mario-vankerckhoven.github.io/gip/Taak4-FAQ/</link>
-      <pubDate>Tue, 20 Oct 2015 15:14:32 +0200</pubDate>
-      
-      <guid>http://mario-vankerckhoven.github.io/gip/Taak4-FAQ/</guid>
-      <description>
-
-&lt;h2 id=&#34;si-vous-avez-des-questions-sur-l-utilisation-de-youtube-il-y-a-une-faq-ci-dessous:1dcf0bc48922d046d371bd1e4d98dd4d&#34;&gt;Si vous avez des questions sur l&amp;rsquo;utilisation de YouTube, il y a une FAQ ci-dessous!&lt;/h2&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;foire-aux-questions:1dcf0bc48922d046d371bd1e4d98dd4d&#34;&gt;Foire Aux Questions&lt;/h3&gt;
-
-&lt;p&gt;Les 4 questions que j’ai préparées  avec Christophe Dumont:&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;où-puis-je-trouver-mes-vidéos-préférées:1dcf0bc48922d046d371bd1e4d98dd4d&#34;&gt;Où puis-je trouver mes vidéos préférées?&lt;/h3&gt;
-
-&lt;p&gt;Dans votre menu à gauche, cliquez sur la playlist “Favorites”.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;si-vous-faites-une-playlist-sur-un-ordinateur-comment-est-ce-que-je-vois-cette-playlist-sur-une-autre-ordinateur:1dcf0bc48922d046d371bd1e4d98dd4d&#34;&gt;Si vous faites une playlist sur un ordinateur, comment est-ce que je vois cette playlist sur une autre ordinateur?&lt;/h3&gt;
-
-&lt;p&gt;Vous voyez la playlist quand vous connectez avec votre account de Google.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;comment-puis-je-supprimer-toute-une-playlist:1dcf0bc48922d046d371bd1e4d98dd4d&#34;&gt;Comment puis-je supprimer toute une playlist?&lt;/h3&gt;
-
-&lt;p&gt;Vous devez sélectionner la playlist que vous voulez supprimer, à droite vous pouvez selectionner l’option: “ Supprimer la playlist”.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;quand-je-sélectionne-un-vidéo-le-vidéo-ne-marche-pas-comment-est-ce-que-je-le-vois-maintenant:1dcf0bc48922d046d371bd1e4d98dd4d&#34;&gt;Quand je sélectionne un vidéo, le vidéo ne marche pas. Comment est-ce que je le     vois  maintenant?&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Pressez sur f5 sur votre clavier.&lt;/li&gt;
-&lt;li&gt;Redémarrez votre ordinateur.&lt;/li&gt;
-&lt;li&gt;Essayez avec un autre navigateur.&lt;/li&gt;
-&lt;li&gt;Mettez à jour votre navigateur.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;les-2-questions-que-j-ai-préparées-tout-seul:1dcf0bc48922d046d371bd1e4d98dd4d&#34;&gt;Les 2 questions que j’ai préparées tout seul&lt;/h2&gt;
-
-&lt;h3 id=&#34;il-y-a-encore-d-autres-sites-comme-youtube:1dcf0bc48922d046d371bd1e4d98dd4d&#34;&gt;Il y a encore d’autres sites comme youtube?&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Vimeo.com&lt;/li&gt;
-&lt;li&gt;Dailymotion.com&lt;/li&gt;
-&lt;li&gt;Veoh.com&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;j-ai-entendu-qu-il-est-possible-de-gagner-de-l-argent-sur-youtube-comment-ça-marche:1dcf0bc48922d046d371bd1e4d98dd4d&#34;&gt;J’ai entendu qu’il est possible de gagner de l’argent sur youtube, comment ça marche?&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Vous créez une  chaïne sur youtube.&lt;/li&gt;
-&lt;li&gt;Vous commencez de faire un vidéo.&lt;/li&gt;
-&lt;li&gt;Vous téléchargez la vidéo que vous avez créé.&lt;/li&gt;
-&lt;li&gt;Vous activez les annonces.&lt;/li&gt;
-&lt;li&gt;Quand les visiteurs de votre vidéo, regardent les annonces, vous gagnez de l’argent.&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
