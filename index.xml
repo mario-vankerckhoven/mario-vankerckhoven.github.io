@@ -28,12 +28,26 @@
       <guid>http://mario-vankerckhoven.github.io/gip/Taak%20ITProfile/</guid>
       <description>&lt;p&gt;&lt;html lang=&#34;en&#34;&gt;
 &lt;head&gt;
-  &lt;title&gt;Bootstrap Example&lt;/title&gt;
-  &lt;meta charset=&#34;utf-8&#34;&gt;
+&lt;style&gt;
+#groen{
+background-color: green;
+}
+#geel{
+background-color: yellow;
+}
+#oranje{
+background-color: orange;
+}
+#rood{
+background-color: red;
+}
+&lt;/style&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;meta charset=&#34;utf-8&#34;&gt;
   &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1&#34;&gt;
   &lt;link rel=&#34;stylesheet&#34; href=&#34;http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css&#34;&gt;
   &lt;script src=&#34;https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js&#34;&gt;&lt;/script&gt;
-  &lt;script src=&#34;http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js&#34;&gt;&lt;/script&gt;
+  &lt;script src=&#34;http://maxcdn.bootsftrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js&#34;&gt;&lt;/script&gt;
 &lt;/head&gt;
 &lt;body&gt;
 &lt;div class=&#34;container&#34;&gt;&lt;/p&gt;
@@ -41,38 +55,95 @@
 &lt;h1&gt; Kennis van programmeertalen &lt;/h1&gt;
 
 &lt;div class=&#34;progress&#34;&gt;
-  &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;75&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:75%&#34;&gt;
+  &lt;div id=&#34;groen&#34; class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;75&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:75%&#34;&gt;
     C#
   &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;progress&#34;&gt;
-  &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;85&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:85%&#34;&gt;
+  &lt;div id=&#34;groen&#34; class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;85&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:85%&#34;&gt;
     HTML
   &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;progress&#34;&gt;
-  &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;
+  &lt;div id=&#34;groen&#34; class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;85&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:85%&#34;&gt;
     CSS
   &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;progress&#34;&gt;
-  &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;
+  &lt;div id=&#34;groen&#34; class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;75&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:75%&#34;&gt;
     Javascript
   &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;progress&#34;&gt;
-  &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;
+  &lt;div id=&#34;groen&#34; class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;70&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:70%&#34;&gt;
     Jquery
   &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;progress&#34;&gt;
-  &lt;div class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;40&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:40%&#34;&gt;
+  &lt;div id=&#34;rood&#34; class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;30&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:30%&#34;&gt;
     Lua
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div id=&#34;oranje&#34; class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;50&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:50%&#34;&gt;
+    GO!
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div id=&#34;groen&#34; class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;70&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:70%&#34;&gt;
+    PHP
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h1&gt;Diversen&lt;/h1&gt;
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div id=&#34;rood&#34; class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;25&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:25%&#34;&gt;
+    Algernon
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div id=&#34;groen&#34; class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;85&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:85%&#34;&gt;
+    (My)SQL
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div id=&#34;oranje&#34; class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;60&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:60%&#34;&gt;
+    Hugo
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div id=&#34;geel&#34; class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;69&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:69%&#34;&gt;
+    Git
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h1&gt;Systeembeheer&lt;/h1&gt;
+
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div id=&#34;groen&#34; class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;78&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:78%&#34;&gt;
+  Windows Server 2012
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div id=&#34;groen&#34; class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;85&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:85%&#34;&gt;
+    Windows 8
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div id=&#34;groen&#34; class=&#34;progress-bar progress-bar-striped active&#34; role=&#34;progressbar&#34; aria-valuenow=&#34;80&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34; style=&#34;width:80%&#34;&gt;
+    Linux Xubuntu
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -83,48 +154,36 @@
     </item>
     
     <item>
-      <title>Javascript applicatie</title>
-      <link>http://mario-vankerckhoven.github.io/gip/Taak%20Javascript/</link>
-      <pubDate>Sun, 08 May 2016 12:18:25 +0200</pubDate>
+      <title>Testomgeving opstellen</title>
+      <link>http://mario-vankerckhoven.github.io/gip/Taak%20Testomgeving/</link>
+      <pubDate>Sun, 08 May 2016 13:18:25 +0200</pubDate>
       
-      <guid>http://mario-vankerckhoven.github.io/gip/Taak%20Javascript/</guid>
-      <description>&lt;p&gt;Door op onderstaande link te klikken zal u worden verwezen naar de Javascript-applicatie:
-&lt;br&gt;&lt;/br&gt;
-&lt;a href=&#34;http://mario-vankerckhoven2.github.io&#34;&gt;Javascript-applicatie&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Voici un reportage photo concernant le stage</title>
-      <link>http://mario-vankerckhoven.github.io/gip/Taak%20Reportage%20photo/</link>
-      <pubDate>Sun, 08 May 2016 12:18:25 +0200</pubDate>
-      
-      <guid>http://mario-vankerckhoven.github.io/gip/Taak%20Reportage%20photo/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.genial.ly/View/Index/56b0df7a1561e80628aa734a/&#34;&gt;klik hier voor de reportage op genial.ly&lt;/a&gt;&lt;/p&gt;
+      <guid>http://mario-vankerckhoven.github.io/gip/Taak%20Testomgeving/</guid>
+      <description>
 
-&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/IviuKmq.png&#34; alt=&#34;Doing IT things&#34; /&gt;
+&lt;p&gt;&lt;code&gt;Deze taak is gemaakt in samenwerking met&lt;/code&gt;:&lt;/p&gt;
 
-&lt;br&gt;&lt;/br&gt;
-&lt;img src=&#34;http://i.imgur.com/RZb56KR.png&#34; alt=&#34;Doing IT things&#34; /&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://wout-wynen.github.io/&#34;&gt;Wout Wynen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://greg-groenvynck.github.io/&#34;&gt;Greg Groenvynck&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;br&gt;&lt;/br&gt;
-&lt;img src=&#34;http://i.imgur.com/zUw3KY4.png&#34; alt=&#34;Doing IT things&#34; /&gt;
+&lt;h2 id=&#34;mysql-php:896a9a1e1832dd8550549cd541a07e20&#34;&gt;Mysql-php&lt;/h2&gt;
 
+&lt;p&gt;Bij het creëren van de testopstelling hebben we vooral met Linux Xubuntu gewerkt. Een mogelijk alternatief was de Windows server met IIS, maar hier doken enkele problemen op in verband met het maken van de connectie tussen de database en de webpagina.
 &lt;br&gt;&lt;/br&gt;
-&lt;img src=&#34;http://i.imgur.com/tj19nEj.png&#34; alt=&#34;Doing IT things&#34; /&gt;
-
+ Om de webpagina lokaal te kunnen testen op de Xubuntu hebben we gebruik gemaakt van apache2. Handig hieraan is dat het samen met de Virtuele machine word opgestart en dat je bestanden altijd gehost worden.
 &lt;br&gt;&lt;/br&gt;
-&lt;img src=&#34;http://i.imgur.com/YFLIky2.png&#34; alt=&#34;Doing IT things&#34; /&gt;
-
-&lt;br&gt;&lt;/br&gt;
-&lt;img src=&#34;http://i.imgur.com/w9V3P26.png&#34; alt=&#34;Doing IT things&#34; /&gt;
-
-&lt;br&gt;&lt;/br&gt;
-&lt;img src=&#34;http://i.imgur.com/Zh9tpLW.png&#34; alt=&#34;Doing IT things&#34; /&gt;
-
-&lt;br&gt;&lt;/br&gt;
-&lt;img src=&#34;http://i.imgur.com/BKKesIn.png&#34; alt=&#34;Doing IT things&#34; /&gt;
+ De bestanden die gehost worden plaats je in de var/www/html map van het Device “Computer”. Om in deze map te geraken moet je wel een programma installeren via Sudo apt-get install Nautilus
+ Eenmaal je bestander hier gezet kan je ze ook nog steeds aanpassen.&lt;br /&gt;
+&lt;img src=&#34;http://i.imgur.com/mgU2tsV.png&#34; alt=&#34;xubuntu pic&#34; /&gt;
 &lt;/p&gt;
+
+&lt;p&gt;Php is verder een zeer handige programmeertaal aangezien het de mogelijkheid bied de verbinding met mysql op eenvoudige manier te maken. echter moet je je ervan bewust zijn dat je de queries goed laat aankomen en dat ze “hackproof” zijn tegen sql injection attacks
+&lt;br&gt;&lt;/br&gt;
+ Als testopstelling hebben we ook het opensource-managementsysteem voor databases namelijk MYSQL gebruikt. Omdat we willen testen dat wanneer je een klasnummer ingeeft de gebruikt een leerling terugkrijgt , moeten we met een database werken. We hebben in MYSQL Workbench een database ‘testopstelling’ met een tabel ‘klagenoten’ gemaakt met hierin verschillende query&amp;rsquo;s. Het werken met MYSQL is in het algemeen goed verlopen. We hebben kleine problemen gehad met het installeren van PhpMyAdmin was moeilijk verlopen. Nadat dit was gelukt hebben we geen enkel probleem meer gehad. De code in MYSQL zelf was ook niet moeilijk omdat we dit met het vak software ook al veel met SQL bezig geweest zijn. Je kan zelfs een code genereren zodat je zelf de code niet moet schrijven. Dit heeft wel een nadeel omdat je wanneer je een fout hebt of een query moet toevoegen, je geen idee hebt hoe dit werkt en dus ook een nieuwe tabel zal moeten maken.
+&lt;br&gt;&lt;/br&gt;
+ Php en  mysql kan werken met een mysql database door het gebruik van MySQL extension of een PDO (PHP data objects). Zowel MySQL en PDO hebben hun voordelen. MySQLi zal alleen werken met SQL databases en PDO kan met 12 verschillende databases werken. Als je moet switchen tussen verschillende databases is het het best om dus PDO te gebruiken aangezien de verschillende databases die je kan gebruiken. Met MySQLi moet je de hele code herschrijven wat een voordeel is en ook een nadeel. Het voordeel is dat je zelf de specificaties kan schrijven het nadeel is dit vraag veel kennis werk en moeite. Beiden zijn object georiënteerd maar MySQLi bied een API aan.&lt;/p&gt;
 </description>
     </item>
     
@@ -151,6 +210,30 @@ Of course there are other drawing softwares which are probally cheaper as well, 
 &lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Javascript applicatie</title>
+      <link>http://mario-vankerckhoven.github.io/gip/Taak%20Javascript/</link>
+      <pubDate>Sun, 08 May 2016 12:18:25 +0200</pubDate>
+      
+      <guid>http://mario-vankerckhoven.github.io/gip/Taak%20Javascript/</guid>
+      <description>&lt;p&gt;Door op onderstaande link te klikken zal u worden verwezen naar de Javascript-applicatie:
+&lt;br&gt;&lt;/br&gt;
+&lt;a href=&#34;http://mario-vankerckhoven2.github.io&#34;&gt;Javascript-applicatie&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Voici un reportage photo concernant le stage</title>
+      <link>http://mario-vankerckhoven.github.io/gip/Taak%20Reportage%20photo/</link>
+      <pubDate>Sun, 08 May 2016 12:18:25 +0200</pubDate>
+      
+      <guid>http://mario-vankerckhoven.github.io/gip/Taak%20Reportage%20photo/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.genial.ly/View/Index/56b0df7a1561e80628aa734a/&#34;&gt;klik hier voor de reportage op genial.ly&lt;/a&gt;&lt;/p&gt;
+
+&lt;div style=&#34;width: 100%;&#34;&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;&#34;&gt;&lt;iframe frameborder=&#34;0&#34; width=&#34;1200&#34; height=&#34;675&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; src=&#34;http://www.genial.ly/View/Index/56b0df7a1561e80628aa734a&#34; type=&#34;text/html&#34; allowscriptaccess=&#34;always&#34; allowfullscreen=&#34;true&#34; scrolling=&#34;no&#34; allownetworking=&#34;all&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
     </item>
     
@@ -191,7 +274,7 @@ Of course there are other drawing softwares which are probally cheaper as well, 
     </item>
     
     <item>
-      <title>taak 11: Case Study</title>
+      <title> Case Study</title>
       <link>http://mario-vankerckhoven.github.io/gip/Taak11%20Case%20study/</link>
       <pubDate>Tue, 26 Apr 2016 18:14:32 +0200</pubDate>
       
@@ -362,23 +445,6 @@ In de namiddag werd er kort over de Bioboxen verteld en hoe deze kunnen helpen b
 
 &lt;p&gt;&lt;br&gt;
 Op het einde van de dag werd er nog even verder gewerkt aan het stock-programma.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Stageverslag van 13 januari</title>
-      <link>http://mario-vankerckhoven.github.io/stage/Stageverslag%2013Januari/</link>
-      <pubDate>Wed, 13 Jan 2016 17:16:32 +0200</pubDate>
-      
-      <guid>http://mario-vankerckhoven.github.io/stage/Stageverslag%2013Januari/</guid>
-      <description>&lt;p&gt;Deze derde dag van de stage was een dag die grotendeels werd opgeslokt door het werken aan een stock programma voor feestzaal de populier. bovendien werd er tijd besteed aan het installeren van PC&amp;rsquo;s over het netwerk en het upgraden door middel van daemon tools.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
-In de namiddag kwam er een dringende oproep van de basisschool Zandhoven in verband met problemen met nieuwe laptops en smartboards.
-waarvoor we een oplossing hebben moeten zoeken bij projectieapparatuur en kalibratie.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
-Ook werden die dag nog de updates van windows op verschillende pc&amp;rsquo;s uitgeschakeld.&lt;/p&gt;
 </description>
     </item>
     
