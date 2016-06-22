@@ -185,6 +185,8 @@ background-color: red;
  Als testopstelling hebben we ook het opensource-managementsysteem voor databases namelijk MYSQL gebruikt. Omdat we willen testen dat wanneer je een klasnummer ingeeft de gebruikt een leerling terugkrijgt , moeten we met een database werken. We hebben in MYSQL Workbench een database ‘testopstelling’ met een tabel ‘klagenoten’ gemaakt met hierin verschillende query&amp;rsquo;s. Het werken met MYSQL is in het algemeen goed verlopen. We hebben kleine problemen gehad met het installeren van PhpMyAdmin was moeilijk verlopen. Nadat dit was gelukt hebben we geen enkel probleem meer gehad. De code in MYSQL zelf was ook niet moeilijk omdat we dit met het vak software ook al veel met SQL bezig geweest zijn. Je kan zelfs een code genereren zodat je zelf de code niet moet schrijven. Dit heeft wel een nadeel omdat je wanneer je een fout hebt of een query moet toevoegen, je geen idee hebt hoe dit werkt en dus ook een nieuwe tabel zal moeten maken.
 &lt;br&gt;&lt;/br&gt;
  Php en  mysql kan werken met een mysql database door het gebruik van MySQL extension of een PDO (PHP data objects). Zowel MySQL en PDO hebben hun voordelen. MySQLi zal alleen werken met SQL databases en PDO kan met 12 verschillende databases werken. Als je moet switchen tussen verschillende databases is het het best om dus PDO te gebruiken aangezien de verschillende databases die je kan gebruiken. Met MySQLi moet je de hele code herschrijven wat een voordeel is en ook een nadeel. Het voordeel is dat je zelf de specificaties kan schrijven het nadeel is dit vraag veel kennis werk en moeite. Beiden zijn object georiënteerd maar MySQLi bied een API aan.&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe width=&#34;840&#34; height=&#34;472&#34; src=&#34;https://www.youtube.com/embed/KEnIh1G3Hg4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -215,18 +217,6 @@ Of course there are other drawing softwares which are probally cheaper as well, 
     </item>
     
     <item>
-      <title>Voici un reportage photo concernant le stage</title>
-      <link>http://mario-vankerckhoven.github.io/gip/Taak%20Reportage%20photo/</link>
-      <pubDate>Sun, 08 May 2016 12:18:25 +0200</pubDate>
-      
-      <guid>http://mario-vankerckhoven.github.io/gip/Taak%20Reportage%20photo/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.genial.ly/View/Index/56b0df7a1561e80628aa734a/&#34;&gt;klik hier voor de reportage op genial.ly&lt;/a&gt;&lt;/p&gt;
-
-&lt;div style=&#34;width: 100%;&#34;&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;&#34;&gt;&lt;iframe frameborder=&#34;0&#34; width=&#34;1200&#34; height=&#34;675&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; src=&#34;http://www.genial.ly/View/Index/56b0df7a1561e80628aa734a&#34; type=&#34;text/html&#34; allowscriptaccess=&#34;always&#34; allowfullscreen=&#34;true&#34; scrolling=&#34;no&#34; allownetworking=&#34;all&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Javascript applicatie</title>
       <link>http://mario-vankerckhoven.github.io/gip/Taak%20Javascript/</link>
       <pubDate>Sun, 08 May 2016 12:18:25 +0200</pubDate>
@@ -235,6 +225,18 @@ Of course there are other drawing softwares which are probally cheaper as well, 
       <description>&lt;p&gt;Door op onderstaande link te klikken zal u worden verwezen naar de Javascript-applicatie:
 &lt;br&gt;&lt;/br&gt;
 &lt;a href=&#34;http://mario-vankerckhoven2.github.io&#34;&gt;Javascript-applicatie&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Voici un reportage photo concernant le stage</title>
+      <link>http://mario-vankerckhoven.github.io/gip/Taak%20Reportage%20photo/</link>
+      <pubDate>Sun, 08 May 2016 12:18:25 +0200</pubDate>
+      
+      <guid>http://mario-vankerckhoven.github.io/gip/Taak%20Reportage%20photo/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.genial.ly/View/Index/56b0df7a1561e80628aa734a/&#34;&gt;klik hier voor de reportage op genial.ly&lt;/a&gt;&lt;/p&gt;
+
+&lt;div style=&#34;width: 100%;&#34;&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;&#34;&gt;&lt;iframe frameborder=&#34;0&#34; width=&#34;1200&#34; height=&#34;675&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; src=&#34;http://www.genial.ly/View/Index/56b0df7a1561e80628aa734a&#34; type=&#34;text/html&#34; allowscriptaccess=&#34;always&#34; allowfullscreen=&#34;true&#34; scrolling=&#34;no&#34; allownetworking=&#34;all&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
     </item>
     
